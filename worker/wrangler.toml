@@ -1,0 +1,7 @@
+name = "daily-intel-worker"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+GITHUB_USERNAME = "Kriya-19"
+GITHUB_REPO = "Daily-Intel-Agent"

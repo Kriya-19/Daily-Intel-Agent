@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Daily Intel — {{ date }}</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      background: #0f0f1a;
+      color: #e0e0e0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 15px;
+      line-height: 1.6;
+    }
+
+    header {
+      background: #1a1a2e;
+      border-bottom: 1px solid #2a2a4a;
+      padding: 20px 32px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    header h1 {
+      font-size: 18px;
+      font-weight: 700;
+      color: #ffffff;
+      letter-spacing: 0.5px;
+    }
+
+    header span {
+      font-size: 13px;
+      color: #888;
+    }
+
+    nav {
+      background: #13131f;
+      border-bottom: 1px solid #2a2a4a;
+      padding: 0 32px;
+      display: flex;
+      gap: 4px;
+      overflow-x: auto;
+    }
+
+    nav a {
+      color: #888;
+      text-decoration: none;
+      font-size: 13px;
+      padding: 12px 16px;
+      border-bottom: 2px solid transparent;
+      white-space: nowrap;
+      transition: all 0.15s;
+    }
+
+    nav a:hover, nav a.active {
+      color: #ffffff;
+      border-bottom-color: #6c63ff;
+    }
+
+    .container {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 32px 24px;
+    }
+
+    .section { display: none; }
+    .section.active { display: block; }
+
+    .section-title {
+      font-size: 13px;
+      font-weight: 600;
+      color: #6c63ff;
+      letter-spacing: 1.5px;
+      text-transform: uppercase;
+      margin-bottom: 24px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid #2a2a4a;
+    }
+
+    .story-card {
+      background: #1a1a2e;
+      border: 1px solid #2a2a4a;
+      border-radius: 10px;
+      padding: 20px 24px;
+      margin-bottom: 16px;
+      transition: border-color 0.15s;
+    }
+
+    .story-card:hover { border-color: #6c63ff; }
+
+    .story-number {
+      font-size: 11px;
+      color: #555;
+      font-weight: 600;
+      margin-bottom: 6px;
+      letter-spacing: 1px;
+    }
+
+    .story-headline {
+      font-size: 16px;
+      font-weight: 600;
+      color: #ffffff;
+      margin-bottom: 10px;
+      line-height: 1.4;
+    }
+
+    .story-summary {
+      font-size: 14px;
+      color: #aaa;
+      margin-bottom: 10px;
+    }
+
+    .story-why {
+      font-size: 13px;
+      color: #7c8cf8;
+      border-left: 2px solid #6c63ff;
+      padding-left: 12px;
+      margin-bottom: 12px;
+    }
+
+    .story-meta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .story-source {
+      font-size: 12px;
+      color: #555;
+    }
+
+    .story-link {
+      font-size: 12px;
+      color: #6c63ff;
+      text-decoration: none;
+    }
+
+    .story-link:hover { text-decoration: underline; }
+
+    /* Funding cards */
+    .funding-card {
+      background: #1a1a2e;
+      border: 1px solid #2a2a4a;
+      border-radius: 10px;
+      padding: 20px 24px;
+      margin-bottom: 16px;
+      display: flex;
+      align-items: flex-start;
+      gap: 20px;
+    }
+
+    .funding-amount {
+      font-size: 20px;
+      font-weight: 700;
+      color: #2ecc71;
+      white-space: nowrap;
+    }
+
+    .funding-company {
+      font-size: 15px;
+      font-weight: 600;
+      color: #fff;
+      margin-bottom: 4px;
+    }
+
+    .funding-detail {
+      font-size: 13px;
+      color: #888;
+    }
+
+    /* Market section */
+    .market-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+      gap: 12px;
+      margin-bottom: 24px;
+    }
+
+    .market-card {
+      background: #1a1a2e;
+      border: 1px solid #2a2a4a;
+      border-radius: 10px;
+      padding: 16px 20px;
+    }
+
+    .market-label {
+      font-size: 12px;
+      color: #666;
+      margin-bottom: 6px;
+    }
+
+    .market-price {
+      font-size: 18px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 4px;
+    }
+
+    .market-change.positive { color: #2ecc71; }
+    .market-change.negative { color: #e74c3c; }
+    .market-change { font-size: 14px; font-weight: 600; }
+
+    /* Contrarian */
+    .contrarian-card {
+      background: linear-gradient(135deg, #1a1a2e, #16213e);
+      border: 1px solid #6c63ff44;
+      border-radius: 10px;
+      padding: 28px 32px;
+    }
+
+    .contrarian-take {
+      font-size: 17px;
+      font-weight: 500;
+      color: #fff;
+      line-height: 1.6;
+      margin-bottom: 16px;
+    }
+
+    .contrarian-reasoning {
+      font-size: 14px;
+      color: #888;
+      border-left: 2px solid #6c63ff;
+      padding-left: 14px;
+    }
+
+    /* Hiring */
+    .hiring-card {
+      background: #1a1a2e;
+      border: 1px solid #2a2a4a;
+      border-radius: 10px;
+      padding: 24px 28px;
+    }
+
+    .hiring-signal {
+      font-size: 16px;
+      color: #e0e0e0;
+      line-height: 1.6;
+      margin-bottom: 12px;
+    }
+
+    .hiring-source {
+      font-size: 12px;
+      color: #555;
+    }
+
+    footer {
+      text-align: center;
+      padding: 40px 24px;
+      color: #333;
+      font-size: 12px;
+      border-top: 1px solid #1a1a2e;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>☀️ Daily Intel</h1>
+  <span>{{ date }}</span>
+</header>
+
+<nav>
+  <a href="#" class="active" onclick="showSection('ai', this)">🤖 AI</a>
+  <a href="#" onclick="showSection('tech', this)">💻 Tech</a>
+  <a href="#" onclick="showSection('finance', this)">💰 Finance</a>
+  <a href="#" onclick="showSection('funding', this)">💸 Funding</a>
+  <a href="#" onclick="showSection('markets', this)">📈 Markets</a>
+  <a href="#" onclick="showSection('hiring', this)">👔 Hiring</a>
+  <a href="#" onclick="showSection('contrarian', this)">🔥 Take</a>
+</nav>
+
+<div class="container">
+
+  <!-- AI -->
+  <div id="section-ai" class="section active">
+    <p class="section-title">🤖 AI News</p>
+    {% for story in digest.ai_news %}
+    <div class="story-card">
+      <div class="story-number">{{ loop.index }} of {{ digest.ai_news|length }}</div>
+      <div class="story-headline">{{ story.headline }}</div>
+      <div class="story-summary">{{ story.summary }}</div>
+      <div class="story-why">{{ story.why_it_matters }}</div>
+      <div class="story-meta">
+        <span class="story-source">{{ story.source }}</span>
+        <a class="story-link" href="{{ story.link }}" target="_blank">Read →</a>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <!-- Tech -->
+  <div id="section-tech" class="section">
+    <p class="section-title">💻 Tech News</p>
+    {% for story in digest.tech_news %}
+    <div class="story-card">
+      <div class="story-number">{{ loop.index }} of {{ digest.tech_news|length }}</div>
+      <div class="story-headline">{{ story.headline }}</div>
+      <div class="story-summary">{{ story.summary }}</div>
+      <div class="story-why">{{ story.why_it_matters }}</div>
+      <div class="story-meta">
+        <span class="story-source">{{ story.source }}</span>
+        <a class="story-link" href="{{ story.link }}" target="_blank">Read →</a>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <!-- Finance -->
+  <div id="section-finance" class="section">
+    <p class="section-title">💰 Finance News</p>
+    {% for story in digest.finance_news %}
+    <div class="story-card">
+      <div class="story-number">{{ loop.index }} of {{ digest.finance_news|length }}</div>
+      <div class="story-headline">{{ story.headline }}</div>
+      <div class="story-summary">{{ story.summary }}</div>
+      <div class="story-why">{{ story.why_it_matters }}</div>
+      <div class="story-meta">
+        <span class="story-source">{{ story.source }}</span>
+        <a class="story-link" href="{{ story.link }}" target="_blank">Read →</a>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <!-- Funding -->
+  <div id="section-funding" class="section">
+    <p class="section-title">💸 Startup Funding</p>
+    {% for item in digest.startup_funding %}
+    <div class="funding-card">
+      <div class="funding-amount">{{ item.amount }}</div>
+      <div>
+        <div class="funding-company">{{ item.company }}</div>
+        <div class="funding-detail">{{ item.one_liner }}</div>
+        <div class="funding-detail" style="margin-top:4px; color:#555">Lead: {{ item.investor }}</div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <!-- Markets -->
+  <div id="section-markets" class="section">
+    <p class="section-title">📈 Markets</p>
+    <div class="market-grid">
+      {% for item in market_data %}
+      <div class="market-card">
+        <div class="market-label">{{ item.label }}</div>
+        <div class="market-price">{{ item.currency }}{{ "{:,.2f}".format(item.price) }}</div>
+        <div class="market-change {{ 'positive' if item.change_pct >= 0 else 'negative' }}">
+          {{ "+" if item.change_pct >= 0 else "" }}{{ item.change_pct }}%
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <!-- Hiring -->
+  <div id="section-hiring" class="section">
+    <p class="section-title">👔 Hiring Trends</p>
+    <div class="hiring-card">
+      <div class="hiring-signal">{{ digest.hiring_trends.signal }}</div>
+      <div class="hiring-source">Based on: {{ digest.hiring_trends.source }}</div>
+    </div>
+  </div>
+
+  <!-- Contrarian -->
+  <div id="section-contrarian" class="section">
+    <p class="section-title">🔥 Contrarian Take</p>
+    <div class="contrarian-card">
+      <div class="contrarian-take">{{ digest.contrarian_insight.take }}</div>
+      <div class="contrarian-reasoning">{{ digest.contrarian_insight.reasoning }}</div>
+    </div>
+  </div>
+
+</div>
+
+<footer>Daily Intel · Generated {{ date }} · <a href="https://github.com/Kriya-19/Daily-Intel-Agent" style="color:#444">GitHub</a></footer>
+
+<script>
+  function showSection(name, el) {
+    document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+    document.querySelectorAll('nav a').forEach(a => a.classList.remove('active'));
+    document.getElementById('section-' + name).classList.add('active');
+    el.classList.add('active');
+    event.preventDefault();
+  }
+</script>
+
+</body>
+</html>

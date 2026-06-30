@@ -32,10 +32,18 @@ jobs:
 
       # Commit the new digest JSON and updated users.db back to the repo
       # This is how the Cloudflare Worker reads today's digest for button taps
-      - name: Commit digest + db
+      # - name: Commit digest + db
+      #   run: |
+      #     git config user.name "github-actions[bot]"
+      #     git config user.email "github-actions[bot]@users.noreply.github.com"
+      #     git add digests/ users.db
+      #     git diff --staged --quiet || git commit -m "digest: $(date +'%Y-%m-%d')"
+      #     git push
+
+      - name: Commit digest + dashboard
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add digests/ users.db
+          git add digests/ docs/ users.db
           git diff --staged --quiet || git commit -m "digest: $(date +'%Y-%m-%d')"
           git push

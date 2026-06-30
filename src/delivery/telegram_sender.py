@@ -67,7 +67,7 @@ def build_buttons(date_str):
         [
             InlineKeyboardButton("💸 Funding", callback_data=f"startup_funding|{date_str}"),
             InlineKeyboardButton("👔 Hiring", callback_data=f"hiring_trends|{date_str}"),
-            InlineKeyboardButton("📊 Dashboard", url="https://YOUR_GITHUB_USERNAME.github.io/daily-intel-agent"),
+            InlineKeyboardButton("📊 Dashboard", url="https://Kriya-19.github.io/Daily-Intel-Agent"),
         ],
     ]
     return InlineKeyboardMarkup(keyboard)

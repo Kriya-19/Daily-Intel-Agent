@@ -1,152 +1,159 @@
 {
   "ai_news": [
     {
-      "headline": "Qwen 3.6 27B deemed sweet spot for local AI development",
-      "summary": "The Qwen 3.6 27B model is highlighted as an optimal choice for local AI development, striking a balance between performance and resource requirements. This makes advanced AI accessible for individual developers and smaller teams, potentially democratizing AI innovation.",
-      "why_it_matters": "Identifies an accessible and efficient AI model for developers, lowering barriers for innovation and custom AI applications outside of large cloud providers.",
-      "source": "Hacker News",
-      "link": "https://quesma.com/blog/qwen-36-is-awesome/"
-    },
-    {
-      "headline": "LongCat-2.0: New large-scale MoE model released",
-      "summary": "LongCat-2.0, a Mixture-of-Experts (MoE) model with 1.6T total and 48B active parameters, has been introduced. This large-scale model represents advancements in efficient and powerful AI architectures for complex tasks.",
-      "why_it_matters": "Showcases progress in developing more efficient and scalable AI models, potentially impacting how large language models are designed and deployed, reducing inference costs.",
+      "headline": "LongCat-2.0 MoE AI model released",
+      "summary": "LongCat-2.0, a new large-scale Mixture of Experts (MoE) model, has been released, boasting a total of 1.6 trillion parameters and 48 billion active parameters. This advanced AI model aims to push the boundaries of large language model capabilities.",
+      "why_it_matters": "This represents significant progress in large-scale AI model development, potentially improving performance and efficiency in complex AI applications.",
       "source": "Hacker News",
       "link": "https://longcat.chat/blog/longcat-2.0/"
     },
     {
-      "headline": "Open-source 'Ornith-1.0' empowers agentic coding",
-      "summary": "Ornith-1.0, a new open-source model, focuses on self-improving capabilities for agentic coding. This aims to enhance autonomous software development and problem-solving through AI agents.",
-      "why_it_matters": "Highlights a trend towards autonomous AI agents in software development, which could significantly change engineering workflows and developer productivity.",
+      "headline": "Ornith-1.0: Self-improving AI coding agents",
+      "summary": "Ornith-1.0 introduces self-improving open-source models designed for agentic coding. This project focuses on developing AI systems that can independently learn and enhance their coding abilities.",
+      "why_it_matters": "It advances the field of automated software development and could significantly boost developer productivity and innovation in AI-driven coding.",
       "source": "Hacker News",
       "link": "https://github.com/deepreinforce-ai/Ornith-1"
     },
     {
-      "headline": "Gemini's personalized AI image generation now free",
-      "summary": "Google is making Gemini's personalized AI image generation free for eligible US users. This feature creates images based on user interests and data from connected Google apps, expanding AI creative tools for the public.",
-      "why_it_matters": "Increases accessibility to advanced generative AI tools for a broader consumer base, intensifying competition in the AI image generation market and driving adoption.",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/"
+      "headline": "Qwen 3.6 27B ideal for local AI",
+      "summary": "The Qwen 3.6 27B model is highlighted as an optimal choice for local AI development due to its balance of performance and resource requirements. This makes advanced AI more accessible for individual developers and smaller teams.",
+      "why_it_matters": "This empowers local AI development, reducing reliance on cloud resources and lowering barriers to entry for AI innovation.",
+      "source": "Hacker News",
+      "link": "https://quesma.com/blog/qwen-36-is-awesome/"
     },
     {
-      "headline": "OKX plans AI agents to hire and pay each other",
-      "summary": "Crypto exchange OKX is developing a marketplace where AI agents can 'hire' and pay each other, integrating payments, identity, and reputation systems. This initiative explores new economic models for AI-driven services.",
-      "why_it_matters": "Presents an innovative, decentralized approach to AI agent collaboration and monetization, potentially forming a new digital economy infrastructure for AI services.",
+      "headline": "OKX plans AI agent marketplace",
+      "summary": "Crypto exchange OKX is developing a marketplace where AI agents can hire and pay each other, integrating payments, identity, and reputation. This initiative aims to create an autonomous economy for AI services.",
+      "why_it_matters": "It explores the convergence of AI and blockchain, potentially creating new economic models and decentralized marketplaces for AI-driven services.",
       "source": "TechCrunch",
       "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/"
+    },
+    {
+      "headline": "OpenAI teases Codex-related hardware",
+      "summary": "OpenAI is teasing a new hardware device related to its AI-powered coding tool, Codex, set for release on July 15th. A video shows a square-shaped device with buttons, described as an 'upgrade' for Codex shortcuts.",
+      "why_it_matters": "This indicates OpenAI's expansion into physical hardware, potentially creating new interfaces for AI interaction and professional tools.",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder"
     }
   ],
   "tech_news": [
     {
-      "headline": "US Supreme Court impacts EU-US data transfers",
-      "summary": "A US Supreme Court ruling has significant implications for EU-US data transfers, potentially disrupting established legal frameworks. This decision could force companies to re-evaluate how they handle European user data to remain compliant.",
-      "why_it_matters": "Creates regulatory uncertainty for tech companies operating across the EU and US, necessitating compliance adjustments and potentially impacting transatlantic data flows and service offerings.",
+      "headline": "EU Digital ID relies on Google/Apple",
+      "summary": "European digital ID wallets are found to be dependent on the safety services provided by Google and Apple. This reliance raises concerns about privacy, sovereignty, and the concentration of power in a few large tech companies for critical public infrastructure.",
+      "why_it_matters": "This highlights geopolitical and privacy implications of relying on US tech giants for fundamental European digital infrastructure.",
       "source": "Hacker News",
-      "link": "https://noyb.eu/en/us-supreme-court-just-blew-eu-us-data-transfers"
+      "link": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/"
     },
     {
-      "headline": "Supreme Court strengthens geofence warrant privacy rights",
-      "summary": "The US Supreme Court ruled that geofence warrants require constitutional protections, limiting government use of location data collected from digital devices. This decision marks a significant win for privacy advocates.",
-      "why_it_matters": "Sets a precedent for digital privacy, increasing scrutiny on government access to sensitive location data and impacting law enforcement's use of surveillance technologies.",
-      "source": "TechCrunch",
-      "link": "https://techcrunch.com/2026/06/29/in-major-privacy-win-supreme-court-rules-geofence-warrants-are-protected-by-privacy-rights/"
-    },
-    {
-      "headline": "Rocket Lab acquires Iridium in historic deal",
-      "summary": "Rocket Lab has announced its acquisition of Iridium Communications, a move described as highly transformative for the space industry. This deal combines Rocket Lab's launch capabilities with Iridium's satellite constellation expertise.",
-      "why_it_matters": "Signifies major consolidation in the commercial space sector, creating a more integrated provider of launch and satellite services with broader market reach and capabilities.",
+      "headline": "SCOTUS demands geofence warrant protections",
+      "summary": "The US Supreme Court ruled that geofence warrants, which allow law enforcement to identify individuals within a specific geographic area, require constitutional protections. This decision strengthens privacy rights against broad government surveillance.",
+      "why_it_matters": "It sets a precedent for digital privacy, impacting how law enforcement can use location data and influencing tech company data policies.",
       "source": "Hacker News",
-      "link": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully"
+      "link": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision"
     },
     {
-      "headline": ".self domain launched to support self-hosting",
-      "summary": "A new top-level domain, '.self', has been introduced with the aim of supporting self-hosting initiatives. This provides a dedicated space for individuals and small entities to manage their digital presence independently.",
-      "why_it_matters": "Offers a new internet identity option for users seeking greater control and decentralization, potentially fostering growth in self-hosted services and personal data sovereignty.",
-      "source": "Hacker News",
-      "link": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/"
+      "headline": "iPhone 18 Pro leaks hit dark web",
+      "summary": "Photos and parts lists for the iPhone 18 Pro reportedly appeared on the dark web following a data breach at one of Apple's key suppliers. The images show a three-camera layout and the Apple logo.",
+      "why_it_matters": "This raises concerns about supply chain security for major tech companies and the integrity of unreleased product information.",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web"
     },
     {
-      "headline": "US offers $10M for Signal/WhatsApp hacker info",
-      "summary": "The US government is offering a $10 million reward for information leading to the identification of a group behind a hacking spree targeting Signal and WhatsApp. Two Russia-state groups are suspected of being involved.",
-      "why_it_matters": "Highlights escalating cyber threats against secure messaging platforms and potential nation-state involvement, underscoring the ongoing need for robust cybersecurity measures.",
+      "headline": "Google warns EU on data privacy",
+      "summary": "Google is warning that the EU's plans to weaken its monopoly, by requiring it to share search data and open up AI on Android, could expose user data. Google claims these mandates pose major privacy risks.",
+      "why_it_matters": "This illustrates the ongoing tension between antitrust regulation and data privacy concerns for large tech companies, impacting market structure and user data protection.",
       "source": "Ars Technica",
-      "link": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/"
+      "link": "https://arstechnica.com/gadgets/2026/06/google-warns-eus-plans-to-weaken-its-monopoly-could-expose-user-data/"
+    },
+    {
+      "headline": "Rocket Lab acquires Iridium Comms",
+      "summary": "Rocket Lab has made a bold move by acquiring Iridium Communications, a deal described as one of the most transformative in the space industry. This acquisition significantly expands Rocket Lab's capabilities and market reach.",
+      "why_it_matters": "It reshapes the commercial space industry landscape, impacting satellite communications and launch service markets for investors and operators.",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/space/2026/06/in-a-bold-move-rocket-lab-acquires-iridium-communications/"
     }
   ],
   "finance_news": [
     {
-      "headline": "Global stocks surge, dollar strengthens, gold/yen fall",
-      "summary": "Global stock markets surged in a stellar quarter, with the dollar strengthening against major currencies. This led to a decline in gold prices and the Japanese yen, reflecting shifts in investor sentiment and monetary policy expectations.",
-      "why_it_matters": "Indicates a broad risk-on environment in equity markets and dollar strength, impacting cross-border investments, commodity prices, and corporate earnings for multinational firms.",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/news/asian-stocks-set-record-breaking-023905584.html"
-    },
-    {
-      "headline": "Yen hits 40-year low as dollar strengthens",
-      "summary": "The Japanese yen has fallen to a 40-year low against a strong US dollar, as traders test the resolve of Japanese authorities. This significant depreciation impacts global trade and investment flows.",
-      "why_it_matters": "Signals potential for intervention by the Bank of Japan and creates challenges for Japanese importers while boosting exporters, affecting global currency markets and economic stability.",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/news/yen-hits-40-low-clock-010137784.html"
-    },
-    {
-      "headline": "Gold plunges on Fed rate hike expectations",
-      "summary": "Gold prices are experiencing their biggest monthly drop since 2008, driven by expectations of aggressive Federal Reserve interest rate hikes. A strong US dollar further diminishes gold's appeal as an inflation hedge.",
-      "why_it_matters": "Reflects tightening monetary policy and strong dollar sentiment, indicating a shift away from safe-haven assets and potentially signaling higher borrowing costs across the economy.",
-      "source": "ET Markets",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/gold-poised-for-biggest-monthly-drop-since-2008-amid-fed-rate-hike-expectations/articleshow/132087982.cms"
-    },
-    {
-      "headline": "South Korea pledges $1T for memory chips, robots",
-      "summary": "South Korea plans to invest $1 trillion into memory chip production and humanoid robots, alongside an additional $550B commitment from tech giants. This ambitious strategy aims to position the nation as a global AI tech powerhouse.",
-      "why_it_matters": "Represents a colossal national industrial strategy to dominate critical technology sectors, impacting global semiconductor supply chains and potentially shifting geopolitical tech influence.",
-      "source": "Hacker News",
+      "headline": "S. Korea commits $1T to chips, robots",
+      "summary": "South Korea plans to invest $1 trillion in increasing memory chip production and advancing humanoid robotics, aiming to become a leader in physical AI by 2028. This massive investment underscores a national strategy for technological dominance.",
+      "why_it_matters": "This substantial governmental and industry commitment will shape global supply chains for critical AI hardware and robotics, influencing market competition.",
+      "source": "Ars Technica",
       "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/"
     },
     {
-      "headline": "UK regulator targets Apple, Google app store payments",
-      "summary": "The UK's Competition and Markets Authority is considering proposals to open Apple and Google's app stores to rival payment systems. This move aims to increase competition and reduce fees for developers.",
-      "why_it_matters": "Signals growing regulatory scrutiny on tech giants' platform control, potentially disrupting their revenue models and fostering innovation in digital payments and app distribution.",
-      "source": "Yahoo Finance",
-      "link": "https://finance.yahoo.com/technology/articles/uk-regulator-proposes-easing-apple-072337061.html"
+      "headline": "Comcast to split media, broadband units",
+      "summary": "Comcast announced plans to split its media properties, including NBCUniversal and Sky, from its broadband division into separate companies. This corporate restructuring aims to streamline operations and unlock shareholder value.",
+      "why_it_matters": "This significant corporate restructuring impacts the media and telecommunications sectors, creating new investment opportunities and competitive dynamics.",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/tech-policy/2026/06/comcast-is-splitting-its-media-and-broadband-properties/"
+    },
+    {
+      "headline": "Oppenheimer cuts top US banks",
+      "summary": "Oppenheimer has downgraded major U.S. investment banks, like Goldman Sachs and Morgan Stanley, advising reallocation to alternative asset managers. This move reflects a belief that investment banks are in the late stages of an expansionary cycle.",
+      "why_it_matters": "This influences investment banking and asset management strategies, indicating a shift in institutional investor sentiment towards specific financial sectors.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-oppenheimer-makes-rare-cuts-to-top-us-investment-banks-backs-alternative-asset-managers/articleshow/132094565.cms"
+    },
+    {
+      "headline": "AI 'arms race' fuels $1T supercycle",
+      "summary": "DBS Bank asserts that the global AI 'arms race' is driving a multi-year capital expenditure supercycle, extending beyond semiconductors to energy, networking, and data centers. This creates new investment opportunities amid geopolitical risks.",
+      "why_it_matters": "This identifies significant long-term investment themes across multiple sectors, crucial for professionals building portfolios around AI's broader economic impact.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/the-1-trillion-ai-arms-race-is-fueling-a-hidden-supercycle-and-its-not-just-chips/articleshow/132092258.cms"
+    },
+    {
+      "headline": "Trump admin threatens renewable energy",
+      "summary": "The Trump administration's policies are threatening 92 GW of new solar and wind power, valued at $121 billion, through increased red tape. This move could significantly impede the growth of renewable energy capacity in the U.S.",
+      "why_it_matters": "This impacts investment and growth in the renewable energy sector, affecting climate goals and the energy market landscape.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/06/29/trump-administration-threatens-92-gw-of-new-electricity-supply-with-red-tape/"
     }
   ],
   "startup_funding": [
     {
       "company": "Chamath Palihapitiya's AI coding startup",
       "amount": "$135M",
-      "investor": "VCs (unnamed)",
-      "one_liner": "An AI coding startup founded by prominent investor Chamath Palihapitiya, securing significant Series A funding.",
+      "investor": "VCs",
+      "one_liner": "A new AI coding startup, founded by investor Chamath Palihapitiya, secured substantial Series A funding.",
       "link": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/"
+    },
+    {
+      "company": "Stalwart People Services",
+      "amount": "Rs 150 crore",
+      "investor": "IPO",
+      "one_liner": "Indian security, facilities management, and staffing services firm files for a Rs 150 crore IPO.",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/tamil-nadu-based-stalwart-people-services-files-drhp-for-rs-150-crore-ipo/articleshow/132093302.cms"
     }
   ],
   "stocks_to_watch": [
     {
-      "ticker": "RKLB",
-      "reason": "Rocket Lab's acquisition of Iridium creates a more integrated space industry player, watch for synergy and market reaction to this consolidation."
+      "ticker": "THO",
+      "reason": "Thor Industries (THO) was negatively impacted in Q1 by rising oil prices and interest rates, illustrating sensitivity to macroeconomic shifts."
     },
     {
-      "ticker": "AAPL",
-      "reason": "Apple faces increased regulatory scrutiny in the UK over app store payment systems, which could impact its service revenue model and investor sentiment."
+      "ticker": "BSY",
+      "reason": "Madison Mid Cap Fund is betting on Bentley Systems (BSY) for several years of growth in infrastructure software, indicating strong long-term confidence."
     },
     {
-      "ticker": "GOOGL",
-      "reason": "Google is under pressure from UK regulators on app store payments and facing EU concerns about data sharing with competitors, potentially impacting its platform dominance."
+      "ticker": "AVAV",
+      "reason": "AeroVironment (AVAV) stock soared significantly following its latest earnings report, signaling positive investor reaction to its performance."
     },
     {
-      "ticker": "HDB",
-      "reason": "HDFC Bank is seen as attractively valued, with experts suggesting the Indian banking sector is poised for a new growth phase driven by credit expansion."
+      "ticker": "PLTR",
+      "reason": "Palantir (PLTR) stock, despite a crash this year, has analysts suggesting upside potential and recently partnered with NVIDIA on secure AI models."
     },
     {
-      "ticker": "MARUTI.NS",
-      "reason": "Maruti Suzuki shares jumped after Jefferies upgraded its rating to 'Buy' due to strong passenger vehicle demand, easing crude prices, and lower metal costs."
+      "ticker": "NVDA",
+      "reason": "NVIDIA (NVDA) partnered with Palantir to deploy secure AI models for government and infrastructure, broadening its application in critical sectors."
     }
   ],
   "hiring_trends": {
-    "signal": "Contrary to fears of AI replacing jobs, a new report indicates that 'high-intensity AI adopters' are actually increasing headcount by over 10%, with a notable 12% rise in entry-level positions, challenging the common narrative.",
-    "source": "TechCrunch [17]"
+    "signal": "Companies intensely adopting AI are reporting overall headcount increases, specifically a 12% rise in entry-level positions, which challenges the common perception that AI primarily eliminates junior jobs.",
+    "source": "TechCrunch article 'The AI jobs debate just got messier'"
   },
   "contrarian_insight": {
-    "take": "Despite widespread euphoria and massive investments in AI and related hardware, the market may be forming an 'AI bubble' susceptible to correction. The rapid capital infusion into chip production and AI startups could outpace the sustainable, profitable adoption of these technologies, leading to oversupply or diminished returns for many.",
-    "reasoning": "Articles point to both 'popping the GPU bubble' ([2]) and warnings of a sharp US stock correction fueled by 'excessive AI enthusiasm' ([82]). While South Korea commits $1T to chips ([7]), there's a risk that this, combined with other global investments, creates an overcapacity scenario if enterprise and consumer AI applications don't scale fast enough or if technological shifts reduce hardware demands prematurely."
+    "take": "Despite the overwhelming narrative of a $1 trillion AI supercycle and quantum computing nearing commercial viability, history suggests that even transformative technologies are susceptible to speculative bubbles. The current enthusiasm and massive capital inflows might reflect 'popular delusions' that could lead to corrections, regardless of underlying technological merit.",
+    "reasoning": "Edward Thorp's quote emphasizes that 'financial irrationalities' predate modern technology, while the historical account of 'Memoirs of Extraordinary Popular Delusions and the Madness of Crowds' highlights how human psychology often drives market extremes. The rapid escalation of AI investments and valuations could be entering such a phase, where exuberance may outpace fundamental growth in the short to medium term."
   }
 }

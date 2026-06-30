@@ -17,6 +17,7 @@ from src.charts.chart_generator import generate_market_chart
 from src.delivery.telegram_sender import send_digest_sync
 from src.storage.user_store import get_all_active_users, initialize_db
 from src.storage.digest_store import save_digest
+from src.dashboard.build_dashboard import build_dashboard
 
 def run():
     print(f"\n{'='*50}")
@@ -35,6 +36,8 @@ def run():
     # 4. Save digest JSON for button replay later
     date_str = datetime.now().strftime("%Y-%m-%d")
     save_digest(digest, date_str)
+    # build_dashboard(digest, [], date_str)
+
 
     # 5. Get all registered users
     initialize_db()
@@ -59,6 +62,8 @@ def run():
             chart_path = f.name
 
         generate_market_chart(market_data, chart_path)
+        build_dashboard(digest, market_data, date_str)
+
 
         # Send both messages
         send_digest_sync(
