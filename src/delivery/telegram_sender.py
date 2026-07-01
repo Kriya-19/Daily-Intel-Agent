@@ -91,13 +91,29 @@ async def send_digest(chat_id, digest, market_data, chart_path, date_str):
     )
 
     # Message 2 — Chart image
-    if chart_path and os.path.exists(chart_path):
+    # Message 2 — Chart image (only send if chart exists and has content)
+    if chart_path and os.path.exists(chart_path) and os.path.getsize(chart_path) > 0:
         caption = format_market_caption(market_data)
         with open(chart_path, "rb") as photo:
             await bot.send_photo(
                 chat_id=chat_id,
                 photo=photo,
                 caption=caption,
+            )
+    else:
+        # Fallback — send market data as text if chart failed
+        if market_data:
+            caption = "📈 <b>Markets</b>\n\n" + format_market_caption(market_data)
+            await bot.send_message(
+                chat_id=chat_id,
+                text=caption,
+                parse_mode="HTML",
+            )
+        else:
+            await bot.send_message(
+                chat_id=chat_id,
+                text="📈 <b>Markets</b>\n\nMarket data unavailable — exchanges may be closed.",
+                parse_mode="HTML",
             )
 
     print(f"[Telegram] Sent digest to {chat_id}")

@@ -11,6 +11,8 @@ def generate_market_chart(market_data, output_path="chart.png"):
     Saves to output_path and returns the path.
     """
     if not market_data:
+        print("[Chart] No market data — skipping chart generation")
+
         return None
 
     labels = []
