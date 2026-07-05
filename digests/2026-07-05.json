@@ -1,0 +1,180 @@
+{
+  "ai_news": [
+    {
+      "headline": "Alibaba bans employees from using Claude Code",
+      "summary": "Alibaba has reportedly classified Anthropic's Claude Code as high-risk software, leading to a ban on its use by employees. This highlights corporate concerns regarding security or data privacy with third-party AI coding tools.",
+      "why_it_matters": "Enterprise AI adoption faces challenges beyond capability, including security, compliance, and risk management, influencing vendor choices and internal policies.",
+      "source": "TechCrunch AI",
+      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/"
+    },
+    {
+      "headline": "Zuckerberg: AI agents slower than expected",
+      "summary": "Meta CEO Mark Zuckerberg reportedly told staff that AI development efforts, particularly for AI agents, are not advancing as quickly as he had anticipated. This internal assessment suggests potential roadblocks or higher-than-expected challenges in scaling advanced AI applications.",
+      "why_it_matters": "This indicates a more grounded reality for advanced AI agent development, potentially impacting timelines and investment strategies across the industry.",
+      "source": "TechCrunch AI",
+      "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/"
+    },
+    {
+      "headline": "Anthropic launches Claude Desktop agent, Cowork",
+      "summary": "Anthropic released Cowork, a new AI agent extending Claude Code's capabilities to non-technical users for desktop file interaction. The team reportedly built the entire feature in less than two weeks, largely using Claude Code itself.",
+      "why_it_matters": "This launch marks a significant step towards practical, user-friendly AI agents for mainstream users, demonstrating rapid internal AI-driven development.",
+      "source": "VentureBeat AI",
+      "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
+    },
+    {
+      "headline": "Salesforce enhances Slackbot with advanced AI agent",
+      "summary": "Salesforce has launched a rebuilt Slackbot, transforming it into a full AI agent capable of enterprise data search, document drafting, and taking actions for employees. This move intensifies competition with Microsoft and Google in the workplace AI sector.",
+      "why_it_matters": "The battle for enterprise AI dominance is heating up, with major players integrating sophisticated AI agents into existing productivity platforms.",
+      "source": "VentureBeat AI",
+      "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+    },
+    {
+      "headline": "OpenAI's GPT-5.5 Codex shows performance issues",
+      "summary": "A technical issue related to 'reasoning-token clustering' may be causing degraded performance in OpenAI's GPT-5.5 Codex model. This highlights challenges in maintaining optimal output quality for advanced AI systems.",
+      "why_it_matters": "Performance degradation in frontier models can impact developers relying on these tools, underscoring the complexities of large-scale AI deployment and maintenance.",
+      "source": "Hacker News",
+      "link": "https://github.com/openai/codex/issues/30364"
+    }
+  ],
+  "tech_news": [
+    {
+      "headline": "Google redesigns search box after 25 years",
+      "summary": "Google has formally retired its quarter-century-old search box paradigm, announcing a sweeping redesign of the text field. This significant change aims to evolve the core search experience for billions of users.",
+      "why_it_matters": "A fundamental shift in Google's iconic search interface signals a new era for information retrieval, likely influenced by AI integration and changing user expectations.",
+      "source": "VentureBeat AI",
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+    },
+    {
+      "headline": "Orbital plans space data centers for AI compute",
+      "summary": "US startup Orbital plans to establish space-based data centers, launching its first satellite next year with an eventual goal of 100,000 satellites for 10 gigawatts of AI compute. This ambitious project aims to meet surging AI demand.",
+      "why_it_matters": "This bold initiative explores novel solutions for scaling AI infrastructure, pushing the boundaries of computing beyond terrestrial limitations and impacting future space commercialization.",
+      "source": "ET Tech",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/orbital-plans-space-data-centres-to-power-ai-seeks-fcc-clearance-for-100000-satellites/articleshow/132186475.cms"
+    },
+    {
+      "headline": "Tata Electronics hack exposes Apple, Tesla data",
+      "summary": "A ransomware attack on Indian manufacturer Tata Electronics led to the leak of confidential documents belonging to Apple and Tesla on the dark web. The breach revealed details on upcoming iPhone 18 Pro components and Tesla EV information.",
+      "why_it_matters": "This highlights critical supply chain cybersecurity vulnerabilities, posing significant risks to intellectual property and strategic manufacturing plans for major tech companies.",
+      "source": "ET Tech",
+      "link": "https://economictimes.indiatimes.com/tech/technology/ettech-explainer-what-the-tata-electronics-hack-exposed-about-apple-and-tesla/articleshow/132182466.cms"
+    },
+    {
+      "headline": "Spyware investigator hacked with Pegasus",
+      "summary": "A European politician serving on an EU committee investigating the spyware industry was targeted and had his phone hacked using NSO Group's Pegasus spyware. This occurred via a government customer of NSO Group.",
+      "why_it_matters": "This incident underscores the severe and alarming risks of state-sponsored surveillance, even targeting those tasked with overseeing such technologies, raising profound privacy and national security concerns.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/"
+    },
+    {
+      "headline": "Chevy Silverado EV sales lag expectations",
+      "summary": "The Chevy Silverado EV, a robust electric pickup truck, is reportedly experiencing low sales despite its 'all-American' design. Analysis suggests improvements are needed to boost market appeal.",
+      "why_it_matters": "This illustrates the ongoing challenges and competitive pressures in the electric vehicle market, even for established automakers with seemingly strong offerings.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/"
+    }
+  ],
+  "finance_news": [
+    {
+      "headline": "India attracts investors fleeing AI volatility",
+      "summary": "Indian equities are gaining traction as a stable investment choice for investors seeking refuge from global market volatility, particularly as the AI rally shows signs of cooling. India's market, previously overlooked for its limited AI exposure, is now attracting diversification efforts.",
+      "why_it_matters": "This signals a shift in global investment sentiment, with some investors de-risking from highly speculative AI plays and seeking more stable growth markets.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/investors-looking-for-shelter-from-ai-storm-are-turning-to-india/articleshow/132190604.cms"
+    },
+    {
+      "headline": "Sensex, Nifty rally continues; Q1 earnings eyed",
+      "summary": "Indian markets saw strong gains, with Sensex closing up 262 points and Nifty 50 rising over 95 points, pushing total market capitalization to Rs 480 lakh crore. Analysts are now looking to Q1 earnings reports and other factors to gauge continued momentum.",
+      "why_it_matters": "Continued rally in key Indian indices indicates strong market sentiment, potentially driven by domestic economic factors and growing investor confidence.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-continue-to-rally-on-monday-q1-earnings-among-6-factors-to-drive-dalal-street-this-week/articleshow/132191088.cms"
+    },
+    {
+      "headline": "India IT services face near-term soft growth",
+      "summary": "Indian IT firms anticipate a subdued first quarter, with growth expected to remain soft as clients delay discretionary spending due to global uncertainties. While AI-driven transformations are on the horizon, enterprises are currently cautious, funding new initiatives through existing savings.",
+      "why_it_matters": "This reflects broader enterprise spending caution, indicating that despite AI's transformative potential, immediate market conditions are prioritizing cost-cutting over new investments in IT services.",
+      "source": "ET Tech",
+      "link": "https://economictimes.indiatimes.com/tech/information-tech/it-services-growth-likely-to-stay-soft-in-near-term-as-clients-delay-discretionary-spends-equirus/articleshow/132190726.cms"
+    },
+    {
+      "headline": "Smallcap index outperforms Nifty; expert picks",
+      "summary": "SBI Securities suggests Nifty's breakout could strengthen above 24,450, while the small-cap index continues to outperform. An expert highlights Aurobindo Pharma, DLF, Titan, and Oberoi Realty as top stock picks for the coming week.",
+      "why_it_matters": "The continued strength in small-cap stocks suggests broader market participation and investor confidence beyond blue-chip companies in the Indian market.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-smallcap-index-better-placed-than-nifty-says-sudeep-shah-picks-9-stocks-for-next-week/articleshow/132178739.cms"
+    },
+    {
+      "headline": "Jack Selby expands VC investments in startups",
+      "summary": "Jack Selby of Thiel Capital is expanding his influence in the startup ecosystem through his VC firm, Copper Sky Capital, which is reportedly raising a $300 million second fund. He is acquiring stakes in 'hot startups' like Etched using Arizona connections.",
+      "why_it_matters": "This indicates continued robust activity in venture capital, with established figures raising significant funds to back emerging technologies and companies outside traditional tech hubs.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/"
+    }
+  ],
+  "startup_funding": [
+    {
+      "company": "Railway",
+      "amount": "$100M",
+      "investor": "TQ Ventures",
+      "one_liner": "Provides AI-native cloud infrastructure, aiming to compete with AWS.",
+      "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+    },
+    {
+      "company": "Listen Labs",
+      "amount": "$69M",
+      "investor": "Not specified",
+      "one_liner": "Scales AI-powered customer interviews and feedback analysis.",
+      "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+    },
+    {
+      "company": "IQM",
+      "amount": "$1.9B",
+      "investor": "Public listing on Nasdaq",
+      "one_liner": "Europe's first public full-stack quantum computing company.",
+      "link": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/"
+    },
+    {
+      "company": "Neo",
+      "amount": "$30M",
+      "investor": "Bhavin Turakhia",
+      "one_liner": "Developing an AI-powered alternative to Microsoft Office and Google Apps.",
+      "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/"
+    },
+    {
+      "company": "Bending Spoons",
+      "amount": "IPO-related surge",
+      "investor": "Public market",
+      "one_liner": "Acquires and revamps last-generation tech brands, defying SaaS slump.",
+      "link": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/"
+    }
+  ],
+  "stocks_to_watch": [
+    {
+      "ticker": "GOOG/GOOGL",
+      "reason": "Google's major search redesign and new AI commercial signal strategic shifts that could impact its core business and AI integration."
+    },
+    {
+      "ticker": "CRM",
+      "reason": "Salesforce's launch of an advanced Slackbot AI agent positions it competitively in the enterprise AI space, potentially boosting its workplace productivity offerings."
+    },
+    {
+      "ticker": "AMZN",
+      "reason": "Railway's $100M funding for AI-native cloud infrastructure directly challenges AWS, indicating intensifying competition in the cloud market fueled by AI demand."
+    },
+    {
+      "ticker": "AAPL",
+      "reason": "The Tata Electronics hack exposing confidential iPhone 18 Pro details could raise concerns about supply chain security and impact future product launches or investor confidence."
+    },
+    {
+      "ticker": "MSFT",
+      "reason": "As a key competitor in workplace AI and office software, Microsoft will be closely watched in response to Salesforce's new Slackbot and the emergence of AI alternatives like Neo."
+    }
+  ],
+  "hiring_trends": {
+    "signal": "While some areas of IT services see soft growth due to delayed discretionary spending, there's intense competition for specialized AI talent, with companies employing creative tactics like viral stunts to hire engineers. The autonomous vehicle sector also reports heating talent wars.",
+    "source": "Articles [12], [40], [49], [50]"
+  },
+  "contrarian_insight": {
+    "take": "Despite widespread AI hype and aggressive product integrations, the foundational progress of AI agents might be slower than publicly perceived, and the industry is simultaneously grappling with high costs of proprietary AI solutions, fostering a growing demand for free or open-source alternatives.",
+    "reasoning": "Mark Zuckerberg's admission of slower-than-hoped AI agent progress (Article 7) suggests a dose of realism amid the hype. The high cost of Claude Code and the emergence of free alternatives like Goose (Article 11), alongside the rapid development of open-source coding models like NousCoder-14B (Article 15), highlight that accessibility and cost-effectiveness are becoming critical factors, potentially decentralizing AI development beyond the biggest players."
+  }
+}
