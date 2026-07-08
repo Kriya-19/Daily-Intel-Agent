@@ -1,0 +1,180 @@
+{
+  "ai_news": [
+    {
+      "headline": "Meta's New AI Image Tool Faces User Backlash",
+      "summary": "Meta launched Muse Image, a new AI generator for Instagram and WhatsApp, but users are pushing back over concerns about the use of their photos for training data. The model is intended for advertising, decorating, and creator opportunities.",
+      "why_it_matters": "This highlights ongoing ethical and privacy challenges in AI development and deployment, particularly concerning data sourcing and user consent.",
+      "source": "TechCrunch AI",
+      "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/"
+    },
+    {
+      "headline": "OpenAI's GPT-5.6 Approved for Broad US Rollout",
+      "summary": "OpenAI has received US approval for the broad rollout of its new GPT-5.6 model. Details about the specific capabilities or implications of this approval were not immediately provided.",
+      "why_it_matters": "Regulatory clearance for major AI models like GPT-5.6 is a critical step for widespread commercial adoption and could signal intensified competition.",
+      "source": "ET Tech",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-gets-us-approval-for-broad-gpt-5-6-rollout/articleshow/132253403.cms"
+    },
+    {
+      "headline": "Microsoft Cuts AI Costs, Leans on Internal Models",
+      "summary": "Microsoft is joining the trend of Silicon Valley giants reducing AI spending by increasingly relying on its own proprietary AI models. This strategic shift aims to optimize costs associated with external AI services.",
+      "why_it_matters": "This indicates a maturing AI market where cost efficiency and proprietary solutions become key competitive differentiators for large tech companies.",
+      "source": "TechCrunch AI",
+      "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/"
+    },
+    {
+      "headline": "Anthropic's Claude Cowork Expands to Mobile, Web",
+      "summary": "Anthropic has expanded its Claude Cowork AI agent to mobile and web platforms, enabling users to seamlessly manage tasks across devices. This allows for initiation, status checks, and completion of work from various access points.",
+      "why_it_matters": "This move enhances accessibility and workflow integration for AI agents, pushing them beyond desktop environments into broader enterprise and consumer use.",
+      "source": "TechCrunch AI",
+      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/"
+    },
+    {
+      "headline": "Google Redesigns Search Box for AI Integration",
+      "summary": "Google has redesigned its iconic search box for the first time in 25 years, signifying a major shift in how billions of users will interact with search. The overhaul incorporates advanced AI capabilities directly into the query experience.",
+      "why_it_matters": "This fundamental change to Google Search underscores the company's commitment to AI-first interfaces and will redefine information discovery for users worldwide.",
+      "source": "VentureBeat AI",
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+    }
+  ],
+  "tech_news": [
+    {
+      "headline": "Netflix Embraces Short-Form Content via Publisher Deals",
+      "summary": "Netflix is expanding into shorter video content, rivaling platforms like TikTok and YouTube, by striking licensing deals with major digital media brands. These partnerships will bring 2- to 20-minute videos from publishers like BuzzFeed and Variety to the streaming platform.",
+      "why_it_matters": "This signals a strategic shift for Netflix to diversify its content library and capture audience engagement beyond traditional long-form programming.",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/streaming/962528/netflix-digital-media-brands-streaming"
+    },
+    {
+      "headline": "Google's Pixel 11 Event Set for August 12",
+      "summary": "Google has announced its Pixel 11 launch event for August 12, where it is expected to unveil new Pixel devices. Speculations suggest possible price increases and new features like glowing LEDs.",
+      "why_it_matters": "This event will set Google's mobile strategy for the coming year, influencing competition in the smartphone market.",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/"
+    },
+    {
+      "headline": "X Launches New Video Editor to Combat Stolen Content",
+      "summary": "X is rolling out a new video editor and recorder for iOS, complete with features like multilingual captions and green-screen effects. This initiative aims to encourage creators to post original content and reduce the prevalence of stolen videos on the platform.",
+      "why_it_matters": "This move is critical for X to improve content quality, attract creators, and address issues of intellectual property infringement on its platform.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/07/x-adds-a-video-editor-to-encourage-creators-to-post-original-content-not-stolen-reposts/"
+    },
+    {
+      "headline": "SCOTUS Allows Texas App Store Age Verification Law",
+      "summary": "The Supreme Court has allowed Texas to enforce its app store law requiring age verification, which Big Tech companies have criticized as a 'censorship regime.' Attempts to overturn the law are still ongoing.",
+      "why_it_matters": "This ruling sets a significant precedent for states to regulate digital platforms, potentially leading to a fragmented regulatory landscape for app stores and content distribution.",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/tech-policy/2026/07/supreme-court-lets-texas-enforce-age-verification-law-on-app-stores/"
+    },
+    {
+      "headline": "EU Mandates Driver Monitoring Cameras in New Cars",
+      "summary": "Every new car sold in the European Union must now include a driver monitoring camera. This regulation aims to detect distracted driving and improve road safety.",
+      "why_it_matters": "This represents a major shift in automotive safety regulations with broad implications for vehicle design, privacy, and data collection in the EU market.",
+      "source": "Hacker News",
+      "link": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system"
+    }
+  ],
+  "finance_news": [
+    {
+      "headline": "South Korea Monitors Chip-Driven Market Volatility",
+      "summary": "South Korean economic officials are closely monitoring market factors as sharp swings in chip shares are causing significant market volatility. Increased profit-taking and global AI expectations are contributing to these fluctuations.",
+      "why_it_matters": "This highlights the sensitivity of global markets to the AI sector, particularly semiconductor stocks, which are bellwethers for tech and broader economic health.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-south-korea-steps-up-market-monitoring-as-chip-driven-volatility-rattles-stocks/articleshow/132254228.cms"
+    },
+    {
+      "headline": "Japan Reinforces BOJ Independence in Policy Blueprint",
+      "summary": "Japan's government is considering revising the language in its economic policy blueprint to underscore the Bank of Japan's independence in monetary policy. This move aims to reassure markets about policy coordination while maintaining central bank autonomy.",
+      "why_it_matters": "Clarifying the central bank's independence is crucial for market stability and investor confidence in Japan's economic policy direction.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japan-weighs-revised-monetary-policy-language-in-economic-blueprint-to-reinforce-boj-independence/articleshow/132253956.cms"
+    },
+    {
+      "headline": "Samsung, SK Hynix Rebound Amid AI Chip Demand Optimism",
+      "summary": "Shares of Samsung Electronics and SK Hynix rebounded after an initial sell-off, driven by bargain buying and optimism over tight memory chip supply and strong AI demand. Analysts, however, caution that memory pricing growth could moderate later in 2026.",
+      "why_it_matters": "The performance of these semiconductor giants is a key indicator of investor sentiment and supply-demand dynamics within the critical AI chip market.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatometimes.com/markets/us-stocks/news/global-market-samsung-sk-hynix-rebound-as-bargain-buying-offsets-ai-chip-selloff-fears/articleshow/132253789.cms"
+    },
+    {
+      "headline": "Rivian Seeks $1.2 Billion in New Offering",
+      "summary": "EV maker Rivian aims to raise $1.2 billion through a previously announced offering, with its shares closing 18% lower on Tuesday following the news. This capital raise is critical as the company ramps up the rollout of its more affordable R2 SUVs.",
+      "why_it_matters": "This significant funding round is crucial for Rivian's growth strategy and market competitiveness in the rapidly evolving electric vehicle sector.",
+      "source": "ET Tech",
+      "link": "https://economictimes.indiatimes.com/tech/tech-bytes/ev-maker-rivian-aims-to-raise-1-2-billion-from-previously-announced-offering/articleshow/132252095.cms"
+    },
+    {
+      "headline": "Info Edge Shares Surge 19% Post Q1 Update",
+      "summary": "Info Edge shares rallied 19% over two days after reporting a 14% increase in standalone billings for Q1 FY27, driven by strong growth in Naukri and 99acres. Brokerages like Nomura and Goldman Sachs issued bullish calls, raising target prices.",
+      "why_it_matters": "Strong quarterly performance and positive analyst sentiment can significantly impact investor confidence and future growth prospects for tech-enabled businesses.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/info-edge-shares-rally-19-in-2-days-after-q1-update-heres-what-nomura-goldman-sachs-other-brokerages-say/articleshow/132253998.cms"
+    }
+  ],
+  "startup_funding": [
+    {
+      "company": "Norm",
+      "amount": "$120M",
+      "investor": "Khosla Ventures",
+      "one_liner": "An AI law startup valued at $1.2 billion.",
+      "link": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/"
+    },
+    {
+      "company": "Railway",
+      "amount": "$100M",
+      "investor": "TQ Ventures",
+      "one_liner": "An AI-native cloud platform challenging AWS.",
+      "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+    },
+    {
+      "company": "Listen Labs",
+      "amount": "$69M",
+      "investor": "Not specified, but after viral hiring stunt",
+      "one_liner": "Scales AI-powered customer interviews.",
+      "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+    },
+    {
+      "company": "Even Realities",
+      "amount": "$150M",
+      "investor": "Meituan, Tencent",
+      "one_liner": "Maker of camera-free smart glasses, hitting $1 billion valuation.",
+      "link": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/"
+    },
+    {
+      "company": "Bidbus",
+      "amount": "$15M",
+      "investor": "Ibex Investors",
+      "one_liner": "A platform that lets dealerships bid on used cars.",
+      "link": "https://techcrunch.com/2026/07/07/this-startup-is-pitting-dealerships-against-each-other-to-bid-on-your-used-car/"
+    }
+  ],
+  "stocks_to_watch": [
+    {
+      "ticker": "005930.KS (Samsung Electronics)",
+      "reason": "Shares rebounded from an early sell-off due to AI chip demand, but future pricing growth may moderate."
+    },
+    {
+      "ticker": "000660.KS (SK Hynix)",
+      "reason": "Similar to Samsung, shares rebounded on AI chip optimism despite warnings of moderating pricing growth."
+    },
+    {
+      "ticker": "RIVN (Rivian Automotive)",
+      "reason": "Aiming to raise $1.2 billion from an offering, critical for its R2 SUV rollout and future success."
+    },
+    {
+      "ticker": "META (Meta Platforms)",
+      "reason": "Launched a new AI image generator facing user pushback and updated smart glasses privacy features."
+    },
+    {
+      "ticker": "GOOGL (Alphabet/Google)",
+      "reason": "Redesigned its iconic search box for AI and announced an August 12 Pixel 11 launch event."
+    }
+  ],
+  "hiring_trends": {
+    "signal": "While some larger tech firms like Microsoft are conducting layoffs within their gaming divisions, the AI sector continues to demonstrate robust demand for talent, evidenced by startups like Listen Labs using creative hiring stunts and significant funding rounds in AI-focused companies.",
+    "source": "Based on articles [12], [26], [30], [51]"
+  },
+  "contrarian_insight": {
+    "take": "Despite the prevailing narrative of increasingly autonomous and seamlessly integrated AI, today's news reveals a reality where AI tools are often still augmented, imperfect, and heavily reliant on human oversight and ethical considerations. The focus is shifting from pure technological prowess to practical application, cost-efficiency, and risk mitigation.",
+    "reasoning": "Incidents like Discord's AI moderation bug causing wrongful bans and the 'first' AI-run ransomware still requiring significant human setup underscore AI's current limitations and potential for error. Microsoft's cost-cutting by internalizing AI development, Meta's user pushback on image generation data, and the emergence of free alternatives to high-cost AI coding agents indicate a market prioritizing usable, responsible, and affordable AI solutions over unbridled autonomy."
+  }
+}
