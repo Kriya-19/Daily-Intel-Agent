@@ -1,0 +1,180 @@
+{
+  "ai_news": [
+    {
+      "headline": "Meta pulls Instagram AI feature due to backlash",
+      "summary": "Meta removed an AI image generation feature from Instagram that used public content without explicit user permission, following significant privacy concerns and user feedback. The company acknowledged the feature 'missed the mark' shortly after its launch.",
+      "why_it_matters": "Highlights the critical importance of user consent and privacy in AI product development, impacting adoption and regulatory scrutiny for consumer-facing AI applications.",
+      "source": "TechCrunch AI",
+      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/"
+    },
+    {
+      "headline": "Apple sues OpenAI for alleged trade secret theft",
+      "summary": "Apple has filed a lawsuit against OpenAI, accusing the AI startup's senior leadership and former Apple employees of stealing hardware trade secrets. This legal action comes as Apple pushes deeper into its own artificial intelligence initiatives.",
+      "why_it_matters": "Intensifies the competitive and legal landscape in the AI sector, potentially setting precedents for intellectual property in rapidly evolving AI hardware development.",
+      "source": "TechCrunch AI",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/"
+    },
+    {
+      "headline": "Hugging Face CEO: Open source AI is booming",
+      "summary": "Hugging Face CEO Clem Delangue emphasizes the rapid growth and increasing importance of open-source AI, noting that roughly half of Fortune 500 companies now use its platform. Delangue suggests companies are increasingly moving away from 'renting' proprietary AI solutions.",
+      "why_it_matters": "Signals a significant trend towards enterprise adoption of open-source AI, potentially shifting market power and innovation away from proprietary AI giants.",
+      "source": "TechCrunch AI",
+      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/"
+    },
+    {
+      "headline": "OpenAI launches new GPT-5.6 model family",
+      "summary": "OpenAI has released its latest family of models, GPT-5.6, promising advancements across various applications including cybersecurity. This new release underpins their continued efforts to improve AI capabilities for a broad range of uses.",
+      "why_it_matters": "New model releases from leading AI developers like OpenAI set industry benchmarks and drive innovation, influencing future AI application development and enterprise capabilities.",
+      "source": "TechCrunch AI",
+      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/"
+    },
+    {
+      "headline": "GPT-5.6 Sol Ultra proves math conjecture",
+      "summary": "OpenAI's GPT-5.6 Sol Ultra model has reportedly produced a proof of the Cycle Double Cover Conjecture, a long-standing open problem in graph theory. This represents a significant advancement in AI's capabilities for complex mathematical reasoning.",
+      "why_it_matters": "A major milestone for AI in formal reasoning and abstract mathematics, suggesting profound implications for scientific discovery and automated theorem proving.",
+      "source": "Hacker News",
+      "link": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf"
+    }
+  ],
+  "tech_news": [
+    {
+      "headline": "Google redefines search box after 25 years",
+      "summary": "Google has announced a significant redesign of its iconic search box, moving away from the traditional thin white rectangle and blue links paradigm. This overhaul, unveiled at I/O, signals a major shift in how billions of users will interact with search.",
+      "why_it_matters": "A fundamental change to Google Search's interface could reshape user behavior, web traffic, and digital marketing strategies globally.",
+      "source": "VentureBeat AI",
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+    },
+    {
+      "headline": "FCC cracks down on DJI drone ban evasion",
+      "summary": "The FCC is actively targeting companies like Xtra and Skyrover, which are suspected of being fronts for DJI to circumvent the US foreign drone ban. This action aims to close loopholes used to import popular DJI camera and drone technologies.",
+      "why_it_matters": "Reflects increasing regulatory scrutiny on foreign technology imports, impacting supply chains, market access for Chinese tech, and potentially fostering domestic alternatives.",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/policy/964342/fcc-crack-down-dji-front-companies-xtra-skyrover-sgs-lab"
+    },
+    {
+      "headline": "Quantum error correction recalibrates processors constantly",
+      "summary": "New research demonstrates that quantum error correction can continuously recalibrate a quantum processor using reinforcement learning to adjust control algorithms. This advancement addresses one of the biggest challenges in building stable quantum computers.",
+      "why_it_matters": "A breakthrough in quantum error correction is crucial for the viability and scalability of quantum computing, potentially accelerating its commercial applications.",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/"
+    },
+    {
+      "headline": "China recovers first reusable orbital rocket booster",
+      "summary": "China's state-owned space company successfully recovered its first orbital rocket booster after launch, showcasing a novel recovery method. This achievement signals China's rapid progress in reusable rocket technology, drawing comparisons to SpaceX.",
+      "why_it_matters": "Intensifies global competition in space technology, potentially lowering space launch costs and accelerating innovation in satellite deployment and space exploration.",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/"
+    },
+    {
+      "headline": "CISA built incident playbook during attack",
+      "summary": "The US cybersecurity agency CISA had to develop its incident response playbook in real-time during a recent security incident involving exposed passwords. A contractor employee accidentally uploaded sensitive data to a public GitHub repository.",
+      "why_it_matters": "Reveals critical vulnerabilities in government cybersecurity preparedness and supply chain security, highlighting the urgent need for proactive planning and contractor oversight.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/"
+    }
+  ],
+  "finance_news": [
+    {
+      "headline": "SK Hynix raises $26.5B in historic US IPO",
+      "summary": "South Korean chipmaker SK Hynix raised $26.5 billion in the largest foreign IPO in US history, with shares surging 13% on its Nasdaq debut, driven by strong investor optimism in AI-linked semiconductors. The company is now being urged to build new manufacturing facilities in the US.",
+      "why_it_matters": "Demonstrates continued robust investor appetite for AI infrastructure stocks despite market pullbacks, and highlights growing pressure for domestic chip manufacturing.",
+      "source": "TechCrunch AI",
+      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/"
+    },
+    {
+      "headline": "Ten BSE 1000 stocks defy market weakness",
+      "summary": "Despite the Sensex ending lower for the week, ten BSE 1000 stocks showed consistent gains for five consecutive trading sessions, achieving up to 20% cumulative returns. This performance highlights specific resilience in a generally weaker market.",
+      "why_it_matters": "Identifies strong performing stocks within the Indian market, offering potential insights for investors seeking robust assets amidst broader market volatility.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-10-stocks-that-gained-for-5-days-in-a-row/slideshow/132325025.cms"
+    },
+    {
+      "headline": "SBI MF IPO vs. ICICI AMC: Investment bet",
+      "summary": "SBI Funds Management's upcoming IPO, valued at Rs 11,600 crore, prompts investors to compare its market leadership against listed peers like ICICI AMC. The mutual fund industry is experiencing structural growth driven by increased savings.",
+      "why_it_matters": "Offers analysis for investors considering new IPOs in India's growing asset management sector, highlighting valuation and market positioning considerations.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-mf-ipo-vs-icici-amc-which-is-the-better-bet-for-investors-ahead-of-rs-11600-crore-issue/articleshow/132324857.cms"
+    },
+    {
+      "headline": "India's IPO market expects Rs 11,980 cr rush",
+      "summary": "India's primary market is set for a significant surge next week with nearly Rs 11,980 crore expected from three new IPOs, led by SBI Funds Management and Alpine Texworld. SBI Funds Management alone aims to raise Rs 11,693 crore through an offer for sale.",
+      "why_it_matters": "Indicates strong capital market activity in India, offering opportunities for investors and signaling confidence in specific sectors like asset management.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-calendar-next-week-sbi-mf-among-3-new-issues-to-raise-rs-11980-cr-gmps-soar-up-to-111/articleshow/132324713.cms"
+    },
+    {
+      "headline": "Berkshire CEO eyes Google post-Buffett's Apple",
+      "summary": "New Berkshire Hathaway CEO Greg Abel is reportedly deploying the company's $400 billion cash pile, with Google-parent Alphabet at the center of this strategic shift. This comes after Warren Buffett's successful long-term bet on Apple.",
+      "why_it_matters": "Berkshire Hathaway's investment moves are closely watched as they can signal major market shifts and validate specific tech companies, influencing broader investor sentiment.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-google-be-berkshire-ceo-greg-abels-best-stock-pick-after-predecessor-warren-buffetts-apple-bet/articleshow/132324438.cms"
+    }
+  ],
+  "startup_funding": [
+    {
+      "company": "Railway",
+      "amount": "$100M",
+      "investor": "TQ Ventures",
+      "one_liner": "Cloud platform building AI-native infrastructure to challenge legacy providers like AWS.",
+      "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+    },
+    {
+      "company": "Listen Labs",
+      "amount": "$69M",
+      "investor": "Series B funding round",
+      "one_liner": "AI startup scaling customer interviews, known for a viral billboard hiring stunt.",
+      "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+    },
+    {
+      "company": "Oratomic",
+      "amount": "$300M",
+      "investor": "ARCH Venture Partners, Spark Capital, Khosla Ventures",
+      "one_liner": "Developing a viable quantum computer requiring only 20,000 qubits.",
+      "link": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/"
+    },
+    {
+      "company": "Lyzr",
+      "amount": "$100M",
+      "investor": "AI agent-managed fundraise",
+      "one_liner": "Builds enterprise AI agents, notably using its own AI agent to manage its $100M fundraise.",
+      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/"
+    },
+    {
+      "company": "Ollama",
+      "amount": "$65M",
+      "investor": "Benchmark",
+      "one_liner": "Popular open-source AI developer tool for easily running AI models on personal computers, boasting nearly 9M users.",
+      "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/"
+    }
+  ],
+  "stocks_to_watch": [
+    {
+      "ticker": "SKHY",
+      "reason": "Successfully raised $26.5B in the biggest foreign IPO in US history, with shares rocketing 13% on debut due to strong AI optimism."
+    },
+    {
+      "ticker": "GOOGL",
+      "reason": "Reportedly at the center of new Berkshire Hathaway CEO Greg Abel's strategy to deploy its $400 billion cash pile, indicating significant institutional investment interest."
+    },
+    {
+      "ticker": "NVDA",
+      "reason": "The US has eased export controls on the UAE, making it easier for them to access Nvidia AI chips, which could boost international sales and market reach."
+    },
+    {
+      "ticker": "AAPL",
+      "reason": "Sued OpenAI for alleged trade secret theft, showing its aggressive stance on IP protection as it deepens its own AI initiatives and competes for talent."
+    },
+    {
+      "ticker": "META",
+      "reason": "Faced public backlash and removed a controversial AI feature on Instagram, highlighting the reputational and product risks of consumer AI and privacy concerns."
+    }
+  ],
+  "hiring_trends": {
+    "signal": "The highly competitive market for AI talent is driving companies to innovative recruitment strategies, with one startup notably using a viral billboard stunt and AI tokens to hire over 100 engineers.",
+    "source": "Article 12: Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews"
+  },
+  "contrarian_insight": {
+    "take": "Despite widespread fears of AI leading to job displacement and market consolidation among tech giants, the current landscape suggests a more distributed and competitive AI future. The rise of open-source AI, coupled with the success of specialized startups, indicates that innovation and economic opportunity in AI are becoming more decentralized.",
+    "reasoning": "Articles highlight Hugging Face's booming open-source AI ecosystem, the emergence of free alternatives to costly proprietary AI coding tools (e.g., Goose vs. Claude Code), and significant funding for diverse AI-native startups (e.g., Railway, Oratomic, Ollama). This indicates that access to and development of powerful AI is becoming more accessible, fostering a 'long tail' of innovation rather than solely empowering existing behemoths."
+  }
+}
