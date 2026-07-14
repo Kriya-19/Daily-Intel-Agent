@@ -1,0 +1,180 @@
+{
+  "ai_news": [
+    {
+      "headline": "Anthropic launches Cowork AI agent for all users",
+      "summary": "Anthropic has released Cowork, an AI agent extending Claude Code's capabilities to non-technical users. This feature was reportedly built in a week and a half, largely using Claude Code itself.",
+      "why_it_matters": "This launch signifies a major step in making practical AI agents accessible to mainstream users, broadening market adoption beyond developers.",
+      "source": "VentureBeat AI",
+      "link": "https://venturebeat.com/technology/anthropic-laundches-cowork-a-claude-desktop-agent-that-works-in-your-files-no"
+    },
+    {
+      "headline": "Google revamps search box for AI era",
+      "summary": "Google has redesigned its iconic search box for the first time in 25 years, moving away from the traditional list of blue links. This sweeping change, announced at I/O, signals a new paradigm for search influenced by AI.",
+      "why_it_matters": "This fundamental shift in Google's core product indicates how AI is reshaping user interaction and information retrieval across major platforms.",
+      "source": "VentureBeat AI",
+      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think"
+    },
+    {
+      "headline": "Apple sues OpenAI over alleged trade secret theft",
+      "summary": "Apple has filed a lawsuit against OpenAI, alleging trade secret theft through a former employee who exploited a 'rare' bug to download confidential files. The complaint includes claims of employees joking about unauthorized access.",
+      "why_it_matters": "This high-profile legal battle highlights intense competition and intellectual property concerns at the forefront of the rapidly evolving AI industry.",
+      "source": "TechCrunch AI",
+      "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/"
+    },
+    {
+      "headline": "Nadella warns on proprietary AI 'Trojan horses'",
+      "summary": "Microsoft CEO Satya Nadella has issued a warning about the potential downsides of large AI labs selling proprietary models. He suggests these models could be acting like 'Trojan horses,' causing concern among AI enthusiasts.",
+      "why_it_matters": "The warning from a leading tech CEO underscores growing industry debate and anxiety about data privacy, control, and vendor lock-in with dominant AI providers.",
+      "source": "TechCrunch AI",
+      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/"
+    },
+    {
+      "headline": "Nous Research launches open-source coding AI",
+      "summary": "Nous Research, an open-source AI startup, has released NousCoder-14B, a competitive programming model trained in just four days. It aims to match or exceed larger proprietary systems, adding to the crowded field of AI coding assistants.",
+      "why_it_matters": "This development intensifies competition in AI coding, demonstrating how open-source solutions can rapidly challenge expensive proprietary tools and offer cost-effective alternatives.",
+      "source": "VentureBeat AI",
+      "link": "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in"
+    }
+  ],
+  "tech_news": [
+    {
+      "headline": "SpaceX readies Starship for 13th test flight",
+      "summary": "SpaceX is preparing for the 13th test flight of its Starship rocket later this week. This mission aims to test Starship under higher pressure and deploy new Starlink satellites into orbit.",
+      "why_it_matters": "Continued Starship testing is crucial for SpaceX's ambitious deep-space and satellite deployment goals, impacting future space exploration and internet infrastructure.",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/"
+    },
+    {
+      "headline": "Microsoft tests ad-free Windows Search",
+      "summary": "Microsoft is experimenting with a cleaner version of the Windows 11 search menu for Insiders. This stripped-down interface removes recommended content and ads, aiming to regain user trust and improve the Windows experience.",
+      "why_it_matters": "A focus on a cleaner, ad-free user experience in a core OS feature could signal a shift in Microsoft's strategy to prioritize user satisfaction over monetization in certain areas.",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads"
+    },
+    {
+      "headline": "OnePlus reportedly exiting US, European markets",
+      "summary": "OnePlus and its parent company, Oppo, are reportedly planning to announce their departure from the US and European markets. This follows months of rumors about the future of the OnePlus brand in these regions.",
+      "why_it_matters": "This potential exit would mark a significant contraction for a prominent Android phone brand, impacting market competition and consumer choice in key Western markets.",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/965084/oneplus-oppo-exit-us-europe"
+    },
+    {
+      "headline": "General Fusion debuts as first public fusion company",
+      "summary": "General Fusion has begun trading on the Nasdaq, becoming the first publicly traded fusion energy company after a reverse merger. Its debut saw shares soaring despite high redemptions.",
+      "why_it_matters": "This IPO marks a significant milestone for the commercialization of fusion energy, offering public investors a stake in a potentially transformative clean power technology.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/13/investors-send-general-fusion-soaring-in-debut-as-first-publicly-traded-fusion-company/"
+    },
+    {
+      "headline": "Japan recovers 90% lithium from EV batteries",
+      "summary": "Japan has developed a new method capable of recovering up to 90% of lithium from used electric vehicle batteries. This innovation addresses concerns about raw material scarcity and environmental impact.",
+      "why_it_matters": "Improved lithium recycling significantly enhances the sustainability and long-term viability of the global electric vehicle industry and energy storage solutions.",
+      "source": "Hacker News",
+      "link": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/"
+    }
+  ],
+  "finance_news": [
+    {
+      "headline": "South Korea Kospi crashes 31%, asks 'AI frenzy over?'",
+      "summary": "South Korea's Kospi index plunged 5% and is down 31% from its June peak, entering bear market territory. The sharp decline raises questions about the sustainability of the recent tech-led AI rally, though it's still up 50% for 2026.",
+      "why_it_matters": "The significant correction in a tech-heavy market could signal broader investor re-evaluation of AI valuations and potential overheating in certain sectors.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-koreas-kospi-crashes-5-again-plunges-31-in-one-month-is-the-ai-frenzy-over/articleshow/132381048.cms"
+    },
+    {
+      "headline": "China's strong trade data boosts global confidence",
+      "summary": "China reported a robust 27% year-on-year increase in exports for June, with imports also climbing 36%. These strong figures suggest resilient global demand and strengthening domestic economic activity.",
+      "why_it_matters": "Upbeat Chinese trade data offers positive signals for global economic health and could lift investor confidence in export-linked stocks worldwide.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-upbeat-trade-data-lifts-hopes-for-export-linked-stocks/articleshow/132380856.cms"
+    },
+    {
+      "headline": "Gold rebounds amid US-Iran tensions, CPI eyed",
+      "summary": "Gold and silver prices rebounded on MCX, ending a two-session losing streak, driven by escalating US-Iran tensions boosting safe-haven demand. Investors are now keenly awaiting US June CPI data for clues on inflation and future Federal Reserve rate decisions.",
+      "why_it_matters": "Geopolitical events and upcoming inflation data will significantly influence commodity markets and central bank policy, impacting global investment strategies.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-snap-2-day-fall-silver-at-rs-2-18-lakh/kg-despite-rising-oil-prices-rate-hike-fears-key-levels-to-watch-today/articleshow/132380620.cms"
+    },
+    {
+      "headline": "States sue to block Paramount-Warner Bros deal",
+      "summary": "Twelve states have filed a lawsuit to block Paramount's proposed $110 billion acquisition of Warner Bros. The states allege that this mega-merger would harm movie theaters, basic cable distributors, and ultimately audiences.",
+      "why_it_matters": "This significant antitrust challenge highlights increasing regulatory scrutiny on major media mergers, potentially reshaping the entertainment industry landscape and future M&A activity.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/"
+    },
+    {
+      "headline": "Crypto exchanges offer SpaceX pre-IPO derivatives",
+      "summary": "Crypto exchanges are capitalizing on the SpaceX frenzy by offering 'pre-IPO perpetual futures' derivatives. Billions have flowed into these instruments, which reference SpaceX's latest pre-IPO valuation without direct linkage to its shares.",
+      "why_it_matters": "This trend highlights the intersection of high-growth private tech companies, speculative crypto markets, and new financial instruments for accessing anticipated IPOs.",
+      "source": "ET Tech",
+      "link": "https://economictimes.indiatimes.com/tech/technology/crypto-exchanges-cash-in-on-spacex-frenzy-with-pre-ipo-derivatives/articleshow/132379740.cms"
+    }
+  ],
+  "startup_funding": [
+    {
+      "company": "PixVerse",
+      "amount": "$439M",
+      "investor": "Undisclosed",
+      "one_liner": "Video-generation startup expanding its world model and global reach.",
+      "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/"
+    },
+    {
+      "company": "Oratomic",
+      "amount": "$300M",
+      "investor": "ARCH Venture Partners, Spark Capital, Khosla Ventures",
+      "one_liner": "Building a viable quantum computer requiring only 20,000 qubits.",
+      "link": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/"
+    },
+    {
+      "company": "Railway",
+      "amount": "$100M",
+      "investor": "TQ Ventures",
+      "one_liner": "Providing AI-native cloud infrastructure to challenge legacy cloud providers.",
+      "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+    },
+    {
+      "company": "Lyzr",
+      "amount": "$100M",
+      "investor": "Undisclosed",
+      "one_liner": "An AI agent startup that used its own AI agent to raise its funding round.",
+      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/"
+    },
+    {
+      "company": "Listen Labs",
+      "amount": "$69M",
+      "investor": "Undisclosed",
+      "one_liner": "Scales AI customer interviews, raised funds after a viral billboard hiring stunt.",
+      "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai"
+    }
+  ],
+  "stocks_to_watch": [
+    {
+      "ticker": "Nuvoco Vistas (NUVOCO)",
+      "reason": "Shares rocketed 14% after reporting a 20% YoY rise in Q1 net profit and strongest ever EBITDA, with improving demand outlook."
+    },
+    {
+      "ticker": "General Fusion (GF)",
+      "reason": "Debuted as the first publicly traded fusion company on Nasdaq, with investors sending shares soaring after its reverse merger."
+    },
+    {
+      "ticker": "Paramount (PARA) / Warner Bros. Discovery (WBD)",
+      "reason": "Their proposed $110 billion merger faces significant legal challenges from 12 states, potentially impacting both companies' valuations."
+    },
+    {
+      "ticker": "SpaceX (private)",
+      "reason": "Despite being private, crypto exchanges are offering pre-IPO derivatives, indicating high speculative investor interest in its future public offering."
+    },
+    {
+      "ticker": "Avenue Supermarts (DMART)",
+      "reason": "A sharp rise in futures open interest indicates significant increased trading activity and investor attention in its derivatives contracts."
+    }
+  ],
+  "hiring_trends": {
+    "signal": "Hiring for AI engineering talent remains intensely competitive, with startups resorting to highly creative and unconventional tactics to attract candidates amidst broad warnings about AI's transformative impact on the global workforce.",
+    "source": "Based on articles [12], [43], [45]"
+  },
+  "contrarian_insight": {
+    "take": "While the prevailing narrative centers on high valuations and massive investments in proprietary AI models, a strong counter-trend suggests open-source and cost-effective AI solutions may become the true long-term disruptors. The current 'AI frenzy' might be overlooking the growing developer preference for flexible, affordable, open-weight models.",
+    "reasoning": "The emergence of free alternatives to expensive proprietary coding agents (like Goose vs. Claude Code), successful open-source models (NousCoder-14B), and the appeal of low-cost Chinese AI models indicates that companies are increasingly 'done renting their AI.' This shift towards accessibility and cost-efficiency could fundamentally reshape the AI market, challenging the dominance of high-priced, closed-source offerings."
+  }
+}
