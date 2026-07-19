@@ -1,0 +1,180 @@
+{
+  "ai_news": [
+    {
+      "headline": "Apple sues OpenAI, imperiling IPO plans",
+      "summary": "Apple filed a trade secrets lawsuit against OpenAI, alleging misconduct and a significant number of former Apple employees joining OpenAI. The timing of the suit could severely disrupt OpenAI's anticipated IPO plans.",
+      "why_it_matters": "This legal battle highlights intensifying competition in the AI sector and could significantly impact a leading AI player's market trajectory and valuation.",
+      "source": "TechCrunch AI",
+      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/"
+    },
+    {
+      "headline": "China's Kimi K3 model rattles US AI industry",
+      "summary": "Chinese company Moonshot AI released Kimi K3, an AI model that quickly topped coding tool rankings, challenging US dominance. This has sparked new discussions about the US-China rivalry in AI innovation.",
+      "why_it_matters": "The emergence of a top-tier Chinese AI model signals shifting global power dynamics and increased competition in the core AI technology market.",
+      "source": "ET Tech",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-kimi-k3-rattles-us-ai-industry/articleshow/132476840.cms"
+    },
+    {
+      "headline": "Databricks' valuation soars to $188B on AI pivot",
+      "summary": "Databricks has reinvented itself as an AI company, achieving a massive $188 billion valuation. The company also published research on cost savings from using open-weight AI models for coding.",
+      "why_it_matters": "This demonstrates how established tech firms are successfully pivoting to leverage the AI boom, influencing market valuations and strategic investments in open-source AI.",
+      "source": "TechCrunch AI",
+      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/"
+    },
+    {
+      "headline": "Enterprises struggle to measure AI compute costs",
+      "summary": "A study across 107 enterprises found AI infrastructure spending accelerating rapidly, outpacing the ability to monitor or control its economics. Most plan to switch or add specialized compute providers soon.",
+      "why_it_matters": "Uncontrolled AI spending poses a significant financial risk for businesses, indicating a need for better cost management and strategic planning in AI adoption.",
+      "source": "VentureBeat AI",
+      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"
+    },
+    {
+      "headline": "AI agent security incidents widespread in enterprises",
+      "summary": "Over half of surveyed enterprises have experienced an AI agent security incident or near-miss, with most still allowing agents to share credentials. Controls are lagging behind the access given to AI agents.",
+      "why_it_matters": "The widespread security vulnerabilities in enterprise AI agent deployments present critical data and system risks, demanding immediate attention to robust security protocols.",
+      "source": "VentureBeat AI",
+      "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials"
+    }
+  ],
+  "tech_news": [
+    {
+      "headline": "Railway secures $100M for AI-native cloud",
+      "summary": "Railway, a cloud platform, raised $100 million in Series B funding to challenge AWS with its AI-native cloud infrastructure. The company has attracted two million developers without marketing.",
+      "why_it_matters": "This significant funding indicates strong investor confidence in new cloud solutions optimized for AI, posing a potential disruption to hyperscaler dominance.",
+      "source": "VentureBeat AI",
+      "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+    },
+    {
+      "headline": "China launches space-based computing constellation",
+      "summary": "Shanghai Xingshu Tiansuan launched its first constellation for space-based computing, aiming for a thousand satellites in orbit. This moves China closer to commercial operation of its orbital data processing network.",
+      "why_it_matters": "China's advancement in space-based computing signifies a critical step in the global tech race, offering advantages in data processing and reducing reliance on terrestrial infrastructure.",
+      "source": "ET Tech",
+      "link": "https://economictimes.indiatimes.com/tech/startups/shanghai-xingshu-launches-first-constellation-of-its-space-based-computing-project/articleshow/132480019.cms"
+    },
+    {
+      "headline": "Several EV models discontinued in the U.S.",
+      "summary": "The Honda Prologue is among a growing list of electric vehicle models that have been discontinued or exited the U.S. market this year, indicating shifts in consumer demand and manufacturer strategies.",
+      "why_it_matters": "The culling of EV models reflects a maturing but still volatile market, impacting consumer choices and manufacturers' long-term investment strategies in electric vehicles.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/"
+    },
+    {
+      "headline": "Waymo resumes San Francisco service after pause",
+      "summary": "Waymo's autonomous vehicle service in San Francisco briefly paused amidst a power outage but has since resumed operations. This isn't the first time power issues have affected Waymo's fleet.",
+      "why_it_matters": "Reliability challenges for autonomous vehicle services, even due to external factors like power outages, highlight operational hurdles for widespread deployment and public trust.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/"
+    },
+    {
+      "headline": "Facial recognition smart locks gain traction",
+      "summary": "Reviews suggest facial recognition smart locks are effective, offering a frictionless, hands-free unlocking experience. This technology is being hailed as the future of smart home security.",
+      "why_it_matters": "The rise of biometric smart locks signals an evolution in home security and automation, with implications for privacy and integration into broader smart home ecosystems.",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review"
+    }
+  ],
+  "finance_news": [
+    {
+      "headline": "Q1 earnings, global events to steer D-Street",
+      "summary": "Dalal Street awaits Q1 earnings, with Infosys and Bajaj Auto among 256 companies reporting this week. Global factors like the Iran-US conflict and tech selloff will also influence Sensex and Nifty.",
+      "why_it_matters": "A confluence of domestic corporate performance and geopolitical tensions will dictate market sentiment and investment decisions in the coming week.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-extend-gains-on-monday-q1-earnings-global-tech-selloff-among-6-factors-to-steer-d-st-this-week/articleshow/132489722.cms"
+    },
+    {
+      "headline": "South Korea expands won bonds for foreign investors",
+      "summary": "South Korea plans to boost the won's global acceptance by allowing foreign financial institutions to borrow won and use won-denominated bonds as collateral. Dollar-won trading hours are also extended to 24 hours.",
+      "why_it_matters": "This move aims to integrate the won further into international finance, potentially increasing its stability and attractiveness for foreign investment.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/south-korea-to-expand-use-of-won-denominated-bonds-for-foreign-investors/articleshow/132489635.cms"
+    },
+    {
+      "headline": "India's Q1 earnings season peaks this week",
+      "summary": "The Q1 FY27 earnings season will see 256 companies, including Infosys, Bajaj Auto, and UltraTech Cement, announce their April-June quarter results. Investors will scrutinize these for economic and demand cues.",
+      "why_it_matters": "Corporate earnings provide crucial insights into economic health and sector-specific performance, guiding investor sentiment and market strategies.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/q1-earnings-this-week-infosys-eternal-bajaj-auto-among-256-companies-set-to-announce-june-quarter-results/articleshow/132489828.cms"
+    },
+    {
+      "headline": "Four public issues open in India this week",
+      "summary": "The coming week will feature four public offerings in India, including the Cube Highways Trust InvIT and three IPOs, such as Indo MIM's combined fresh issue and offer for sale.",
+      "why_it_matters": "Active public issue markets reflect investor appetite and provide capital-raising opportunities for businesses and infrastructure projects in India.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/cube-highways-trust-invit-indo-mim-among-4-public-issues-opening-this-week/articleshow/132490157.cms"
+    },
+    {
+      "headline": "Nifty IT index shows strong momentum",
+      "summary": "The Nifty IT index has rebounded nearly 13.5% from its July 1 low, gaining 5% this week, with technical indicators signaling strengthening bullish sentiment. Key resistance is at 29,600-29,650.",
+      "why_it_matters": "The strong performance of the IT sector index indicates improving investor confidence and potential growth for technology companies in the Indian market.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fo-talk-nifty-it-gaining-strong-momentum-says-sudeep-shah-outlines-hdfc-bank-icici-bank-strategy-after-q1/articleshow/132489745.cms"
+    }
+  ],
+  "startup_funding": [
+    {
+      "company": "Railway",
+      "amount": "$100M",
+      "investor": "TQ Ventures",
+      "one_liner": "Cloud platform challenging AWS with AI-native infrastructure.",
+      "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+    },
+    {
+      "company": "Valar Atomics",
+      "amount": "$6B (valuation)",
+      "investor": "N/A (in talks)",
+      "one_liner": "Nuclear startup in talks to raise new funding.",
+      "link": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/"
+    },
+    {
+      "company": "Fora",
+      "amount": "$60M",
+      "investor": "Forerunner, Tactile Ventures",
+      "one_liner": "AI-powered travel agency hitting unicorn status.",
+      "link": "https://techcrunch.com/2026/07/16/ai-powered-travel-agency-fora-hits-unicorn-status-raises-60m/"
+    },
+    {
+      "company": "N/A (AI-powered vehicle inspection service)",
+      "amount": "$10M",
+      "investor": "Sheryl Sandberg (leads)",
+      "one_liner": "Startup using AI to scan and spot vehicle damage via smartphones.",
+      "link": "https://techcrunch.com/2026/07/16/sheryl-sandberg-leads-10-million-investment-in-ai-powered-vehicle-inspection-service/"
+    },
+    {
+      "company": "Aina",
+      "amount": "$5.5M",
+      "investor": "N/A",
+      "one_liner": "Developing devices to control AI agents.",
+      "link": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/"
+    }
+  ],
+  "stocks_to_watch": [
+    {
+      "ticker": "AAPL",
+      "reason": "Apple's lawsuit against OpenAI highlights its aggressive stance in the AI market and could impact its own AI development strategy."
+    },
+    {
+      "ticker": "GOOG",
+      "reason": "Google's redesign of its core search for AI, Pixel strategy, and investments in AI-backed ventures keep it under market scrutiny."
+    },
+    {
+      "ticker": "INFY",
+      "reason": "Infosys is a key company announcing Q1 earnings this week, which will provide insight into the broader Indian IT sector's performance."
+    },
+    {
+      "ticker": "AMZN",
+      "reason": "Railway's $100M funding to challenge AWS with AI-native cloud infrastructure signals increasing competition in the cloud market."
+    },
+    {
+      "ticker": "OPENAI",
+      "reason": "OpenAI's potential IPO is significantly impacted by Apple's trade secrets lawsuit, making its legal battles and valuation critical to watch."
+    }
+  ],
+  "hiring_trends": {
+    "signal": "There's a strong signal of talent migration within the tech and AI sectors, particularly from established companies like Apple to leading AI startups such as OpenAI, which now employs over 400 former Apple staff.",
+    "source": "Article [8] 'How Apple\u2019s big lawsuit could disrupt OpenAI\u2019s IPO plans'"
+  },
+  "contrarian_insight": {
+    "take": "Despite the immense valuations and rapid proliferation of AI tools, enterprises are largely ill-equipped to effectively integrate, secure, and even cost-manage these technologies. The 'AI boom' in corporate adoption seems to be driven more by hype and fear of missing out than by mature, reliable operational capabilities, leading to widespread failures and trust issues.",
+    "reasoning": "A series of VentureBeat articles ([9], [10], [11], [12], [13]) consistently reveal that enterprises are buying AI infrastructure faster than they can measure costs, experiencing frequent security incidents with AI agents due to poor controls, deploying agents that produce confident but wrong answers, and shipping agents to production that fail customer expectations despite internal evaluations. This collective evidence suggests a significant gap between the perceived power of AI and the practical, trustworthy implementation within businesses, indicating a fragile foundation beneath the booming investment narratives."
+  }
+}
