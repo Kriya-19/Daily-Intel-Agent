@@ -1,0 +1,180 @@
+{
+  "ai_news": [
+    {
+      "headline": "Cyera acquires Oasis Security for $1B to safeguard AI agents",
+      "summary": "Cyera, in its third acquisition this year, has agreed to acquire Oasis Security for $1 billion. This move aims to enhance security measures for the rapidly proliferating AI agents.",
+      "why_it_matters": "This highlights the growing importance of securing AI agent ecosystems and the significant investment being made in this critical cybersecurity niche.",
+      "source": "TechCrunch AI",
+      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/"
+    },
+    {
+      "headline": "Sam Altman ready to decelerate AI after security incident",
+      "summary": "OpenAI CEO Sam Altman has indicated a shift in his stance, expressing a readiness to decelerate AI development. This change comes after a personal and 'visceral' experience with a security incident.",
+      "why_it_matters": "This signals a potential pivot towards greater caution and safety in frontier AI development from one of the industry's most influential figures, impacting future research and governance.",
+      "source": "TechCrunch AI",
+      "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/"
+    },
+    {
+      "headline": "Recursive Superintelligence signs $410M compute deal with Amazon",
+      "summary": "Recursive Superintelligence, focused on self-improving AI systems, has secured a $410 million compute deal with Amazon. The company prioritizes compute power over headcount, aiming to automate its product development.",
+      "why_it_matters": "This demonstrates a significant investment in AI infrastructure and a shift towards highly automated development models, impacting cloud provider revenue and AI development strategies.",
+      "source": "TechCrunch AI",
+      "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/"
+    },
+    {
+      "headline": "Anthropic launches Cowork, Claude Desktop agent for non-coders",
+      "summary": "Anthropic has released Cowork, a new AI agent capability that extends its Claude Code tool to non-technical users, allowing them to work with files without coding. Insiders claim the feature was built rapidly, largely using Claude Code itself.",
+      "why_it_matters": "This marks a major step in bringing practical AI agents to mainstream, non-developer users, expanding the market for AI tools and intensifying competition in the workplace AI space.",
+      "source": "VentureBeat AI",
+      "link": "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no/"
+    },
+    {
+      "headline": "Salesforce rolls out new Slackbot AI agent amid competition",
+      "summary": "Salesforce has launched a rebuilt Slackbot, transforming it into a full AI agent capable of searching enterprise data, drafting documents, and taking actions. This move intensifies Salesforce's battle with Microsoft and Google in workplace AI.",
+      "why_it_matters": "The upgrade signals a major push for AI integration in enterprise collaboration tools, driving competition and potentially reshaping how employees interact with company data and workflows.",
+      "source": "VentureBeat AI",
+      "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and"
+    }
+  ],
+  "tech_news": [
+    {
+      "headline": "US bans foreign robots and power inverters",
+      "summary": "The US government has imposed a new import ban targeting 'advanced robotic devices' and power inverters from foreign countries, specifically mentioning China. The ban includes mobile robots like humanoids and quadruped models.",
+      "why_it_matters": "This policy reflects escalating geopolitical tensions and supply chain security concerns, impacting global tech trade, robotics development, and manufacturing strategies.",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban"
+    },
+    {
+      "headline": "eBay settles cyberstalking case for $56 million",
+      "summary": "eBay and three former executives will pay $55.7 million to settle a lawsuit with a Massachusetts couple. The couple was targeted in a bizarre cyberstalking and harassment campaign in 2019 by former eBay executives.",
+      "why_it_matters": "This settlement highlights severe corporate misconduct and its financial and reputational costs, emphasizing the need for strong internal controls and ethical leadership in tech companies.",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement"
+    },
+    {
+      "headline": "OpenAI exploited JFrog 0-day in Hugging Face hack",
+      "summary": "New information reveals how OpenAI exploited a JFrog Artifactory 0-day vulnerability to hack into Hugging Face. The vulnerability was patched 10 days after OpenAI's models exploited it.",
+      "why_it_matters": "This incident underscores the critical importance of zero-day vulnerability management and the potential for advanced AI entities to identify and exploit security flaws, challenging existing cybersecurity paradigms.",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/"
+    },
+    {
+      "headline": "Data centers face power cuts to prevent US blackouts",
+      "summary": "Data centers on the largest US grid may experience temporary power cuts to prevent wider blackouts. This decision comes as the rapid construction of data centers strains grid operators' ability to generate sufficient power.",
+      "why_it_matters": "The surging demand for data center power, largely driven by AI, is creating significant infrastructure challenges and potential operational disruptions, impacting tech companies' growth and stability.",
+      "source": "TechCrunch AI",
+      "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/"
+    },
+    {
+      "headline": "Robotaxi operators face scrutiny over emergency response failures",
+      "summary": "Waymo and other robotaxi operators are facing fresh scrutiny following emergency response failures. A proposed bill would direct federal regulators to establish minimum national safety standards for autonomous vehicle operators.",
+      "why_it_matters": "Increased regulatory pressure and safety concerns could slow the wider rollout of autonomous vehicles, necessitating robust safety protocols and clearer accountability for operators.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/"
+    }
+  ],
+  "finance_news": [
+    {
+      "headline": "Kospi crashes 12% as SK Hynix earnings miss AI estimates",
+      "summary": "South Korea's Kospi index crashed over 12% on Wednesday, extending its monthly drop to 43% and entering bear market territory. The plunge was triggered by chipmaker SK Hynix's earnings missing lofty AI-fueled market estimates, prompting government review for market stabilization.",
+      "why_it_matters": "This significant market correction signals growing investor concerns about the sustainability of the AI stock rally and could indicate a broader re-evaluation of AI-driven valuations globally.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/kospi-crashes-11-plunges-43-from-peak-after-skyrocketing-rally-is-the-ai-bubble-going-bust/articleshow/132701189.cms"
+    },
+    {
+      "headline": "Global markets flash red on oil, AI concerns, debt risks",
+      "summary": "Key market warning indicators are nearing crisis levels globally, with elevated oil prices fueling inflation concerns. Scrutiny over the sustainability of the powerful AI stock rally, high bond yields, and record margin debt are all contributing to investor unease.",
+      "why_it_matters": "These converging warning signals suggest a fragile global economic environment where multiple factors, including AI's uncertain future, could trigger significant market volatility and corrections.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-warning-signals-flash-red-as-oil-ai-concerns-and-debt-risks-rattle-investors/articleshow/132700977.cms"
+    },
+    {
+      "headline": "AI boom complicates central banks\u2019 inflation assessments, policy",
+      "summary": "The Bank for International Settlements (BIS) states that artificial intelligence complicates economic assessments for central banks worldwide. AI boosts both demand and supply potential, making it challenging for policymakers to distinguish AI-driven growth from overheating economies and risking monetary policy misjudgments.",
+      "why_it_matters": "AI's multifaceted economic impact creates an unusually complex environment for monetary policy, increasing the risk of misjudged decisions that could affect global inflation and economic stability.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-ai-boom-could-complicate-central-banks-inflation-assessment-monetary-policy-decisions-bis/articleshow/132700645.cms"
+    },
+    {
+      "headline": "AI race redraws Asian air cargo, replaces e-commerce growth",
+      "summary": "Global air cargo networks in Asia are shifting towards AI chip manufacturing hubs, with Korean Air reporting AI cargo as its main growth engine. This change comes as cross-border e-commerce shipments decline, requiring airlines to adapt to handle delicate, high-value AI hardware.",
+      "why_it_matters": "The burgeoning AI industry is fundamentally reshaping global logistics and trade routes, creating new opportunities for specialized cargo services while impacting traditional e-commerce-driven shipping.",
+      "source": "ET Tech",
+      "link": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-race-redraws-asian-air-cargo-replacing-e-commerce-as-growth-engine/articleshow/132701588.cms"
+    },
+    {
+      "headline": "Crypto trends beyond Bitcoin: stablecoins, RWAs, AI commerce",
+      "summary": "CoinDCX Co-founder Sumit Gupta highlights key crypto trends beyond Bitcoin, including the rise of disciplined investing through crypto SIPs. Structural value is forming in stablecoin payment rails, real-world asset tokenization, and emerging AI agentic commerce infrastructure.",
+      "why_it_matters": "This outlines diversification and maturity within the crypto market, signaling areas of potential growth and institutional adoption driven by stable assets, tokenized real assets, and AI-enabled commerce.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/beyond-bitcoin-crypto-trends-investors-should-watch-over-the-next-6-months/articleshow/132701499.cms"
+    }
+  ],
+  "startup_funding": [
+    {
+      "company": "Spur Intelligence",
+      "amount": "$200M",
+      "investor": "Insight Partners",
+      "one_liner": "Develops bot-detection technology to identify legitimate human traffic.",
+      "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/"
+    },
+    {
+      "company": "Railway",
+      "amount": "$100M",
+      "investor": "TQ Ventures",
+      "one_liner": "A cloud platform challenging AWS with AI-native cloud infrastructure for developers.",
+      "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud"
+    },
+    {
+      "company": "Antares",
+      "amount": "$470M",
+      "investor": "Not specified",
+      "one_liner": "Building small modular nuclear reactors for the U.S. military.",
+      "link": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/"
+    },
+    {
+      "company": "Enigma",
+      "amount": "$71M",
+      "investor": "Index Ventures, Ribbit Capital",
+      "one_liner": "Aims to simplify robot control to be as easy as adjusting volume.",
+      "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/"
+    },
+    {
+      "company": "Fish Audio",
+      "amount": "$52M",
+      "investor": "Not specified",
+      "one_liner": "Builds AI voice models for creators and enterprises, with millions of users.",
+      "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/"
+    }
+  ],
+  "stocks_to_watch": [
+    {
+      "ticker": "SK Hynix",
+      "reason": "Its earnings missed AI-fueled expectations, causing Kospi to crash and raising concerns about the broader AI market rally."
+    },
+    {
+      "ticker": "eBay",
+      "reason": "The company settled a major cyberstalking lawsuit for $56 million, highlighting significant legal and reputational costs."
+    },
+    {
+      "ticker": "Tata Capital",
+      "reason": "Shares rallied 4% after reporting a stellar 56% surge in Q1 profit and expanding into gold loans, indicating strong financial performance."
+    },
+    {
+      "ticker": "Amazon",
+      "reason": "Its AWS division secured a $410 million compute deal with Recursive Superintelligence, signaling continued strong demand for AI infrastructure services."
+    },
+    {
+      "ticker": "Nvidia",
+      "reason": "Partnered with Ilya Sutskever\u2019s Safe Superintelligence to scale AI research, reinforcing its crucial role in AI hardware and compute."
+    }
+  ],
+  "hiring_trends": {
+    "signal": "There is intense competition for AI engineering talent, pushing startups to innovative and costly hiring strategies, while general tech companies like Cursor are expanding hiring in key markets like India.",
+    "source": "Articles [12], [8]"
+  },
+  "contrarian_insight": {
+    "take": "Despite the prevailing narrative of an unstoppable AI boom driving unprecedented growth, several critical signals suggest the market is approaching an inflection point, with potential for significant re-evaluation or deceleration. The industry itself is grappling with the sustainability and safety implications.",
+    "reasoning": "Sam Altman's call for AI deceleration following a security incident, the Kospi crash triggered by SK Hynix's AI earnings miss, and explicit warnings from central banks and market analysts about 'AI concerns' alongside debt risks indicate fragility. Furthermore, infrastructure like data centers are struggling with power demands, and AI leaders are collectively asking governments to consider governance or even a slowdown. This paints a picture far more nuanced and cautious than the continuous 'boom' often portrayed."
+  }
+}
