@@ -1,0 +1,166 @@
+{
+  "ai_news": [
+    {
+      "headline": "Nvidia CEO Huang faces ouster over spy affair, stock drops",
+      "summary": "Jensen Huang is reportedly facing removal by Nvidia's board following admission of an affair with an alleged Chinese spy and a new accusation of another affair with an Nvidia exec. The scandal has led to a drop in Nvidia's stock and has caught the attention of Congress and the FBI. Nvidia, the leading AI chip maker, has no formal succession plan.",
+      "why_it_matters": "This leadership crisis at a pivotal AI chip maker could significantly impact its strategic direction and the broader AI hardware supply chain.",
+      "source": "TechCrunch AI",
+      "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
+    },
+    {
+      "headline": "TSMC invests $1B into Anthropic and OpenAI",
+      "summary": "Taiwan's chipmaking giant TSMC is investing $1 billion into leading AI companies Anthropic and OpenAI. This move highlights the 'circular financing' trend within the AI boom, despite recent wobbles in AI trade. It solidifies strategic alliances within the AI ecosystem.",
+      "why_it_matters": "This significant investment by a key manufacturer underscores the deep interdependencies and self-reinforcing growth within the AI supply chain.",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/"
+    },
+    {
+      "headline": "OpenAI quarterly revenue reportedly crosses $10B",
+      "summary": "OpenAI has reportedly achieved a quarterly revenue of over $10 billion, marking a nearly 50% jump from the previous quarter's $6.7 billion. This indicates rapid growth and increasing adoption of its AI models. India has also become ChatGPT's biggest market.",
+      "why_it_matters": "This significant revenue milestone underscores the immense commercial success and accelerating market demand for advanced AI services.",
+      "source": "TechCrunch",
+      "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/"
+    },
+    {
+      "headline": "AI data center boom faces construction, energy hurdles",
+      "summary": "The rapid expansion of AI data centers is encountering significant real-world obstacles, including widespread local opposition, permitting delays, and a scramble for electricity. Many announced projects may never be built, especially after 'Blue Wave' midterms imposed more restrictions. CoreWeave is turning to prepayments and shorter contracts to fund its growth.",
+      "why_it_matters": "These challenges could slow down the development of crucial AI infrastructure, impacting compute availability and cost for the entire industry.",
+      "source": "TechCrunch AI",
+      "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/"
+    },
+    {
+      "headline": "United bans AI agents from booking flights",
+      "summary": "United Airlines has announced it will not permit personal AI assistants to book tickets, citing privacy and regulatory concerns. The company reports it has not seen many attempts but is concerned about future issues, mirroring observations from other businesses like Doordash.",
+      "why_it_matters": "This highlights growing concerns about AI agent autonomy and security in consumer services, potentially setting a precedent for other industries and regulating AI usage.",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
+    }
+  ],
+  "tech_news": [
+    {
+      "headline": "Critical RCE vulnerability found in Apache HTTP Server",
+      "summary": "A critical Remote Code Execution (RCE) vulnerability, CVE-2026-119618, has been discovered in Apache HTTP Server. This flaw could allow attackers to execute arbitrary code on affected systems. Cybersecurity firm Wiz has released details on the vulnerability.",
+      "why_it_matters": "This severe vulnerability poses a significant threat to countless web servers globally, requiring immediate attention and patching to prevent exploitation.",
+      "source": "Hacker News",
+      "link": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability"
+    },
+    {
+      "headline": "EU proposes Digital Fairness Act for online experience",
+      "summary": "The European Union has proposed a new Digital Fairness Act (DFA) aimed at making online experiences fairer by tackling practices that exploit consumers. This includes cracking down on loot boxes, influencers, and addictive features on gaming, social media, and e-commerce platforms.",
+      "why_it_matters": "This sweeping regulation could reshape how online platforms design their services and interact with users, significantly impacting business models across digital industries.",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection"
+    },
+    {
+      "headline": "T-Mobile illegally capped low-income home internet",
+      "summary": "New York State alleges T-Mobile illegally imposed a 50GB data cap on its low-income home internet plan, reducing speeds to 600Kbps after the cap. State law requires 25Mbps home internet, leading to accusations of violating internet regulations.",
+      "why_it_matters": "This highlights ongoing regulatory scrutiny on internet service providers regarding consumer protection, network neutrality, and digital equity for vulnerable populations.",
+      "source": "Ars Technica",
+      "link": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/"
+    },
+    {
+      "headline": "Toyota revives Scion with American-made kei truck",
+      "summary": "Toyota is bringing back its Scion badge as an experimental mobility incubator, with its first offering being an authentic Japanese-style kei truck built in Indiana. Positioned for new mobility missions, the vehicle is capped at 25 mph and targets a unique market.",
+      "why_it_matters": "This signals Toyota's innovative approach to urban mobility and exploration of niche markets, potentially influencing future automotive design and manufacturing strategies.",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival"
+    },
+    {
+      "headline": "Home Assistant launches 'smart home multi-tool'",
+      "summary": "Nabu Casa, the commercial arm of Open Home Foundation, has launched the Home Assistant Connect Aux-2, a multi-function box. Designed to help integrate more non-smart devices into smart homes, it enhances user-friendliness and broadens home automation capabilities.",
+      "why_it_matters": "This device aims to expand the smart home ecosystem by bridging traditional appliances with modern automation, potentially lowering barriers to adoption and increasing market reach.",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on"
+    }
+  ],
+  "finance_news": [
+    {
+      "headline": "Indian bonds drift amid US debt rout, oil relief",
+      "summary": "Indian government bonds remained stable but drifted due to climbing US Treasury yields and falling oil prices, with inflation data expected soon. The Reserve Bank of India's policy rate decisions hinge on these figures, while the ongoing Iran conflict poses a risk to oil markets.",
+      "why_it_matters": "Global macroeconomic factors are influencing Indian market stability and could dictate future monetary policy decisions, impacting investor sentiment and capital flows.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-drift-as-us-debt-rout-saps-oil-relief-before-cpi/articleshow/135758028.cms"
+    },
+    {
+      "headline": "FIIs return to India, Jefferies names 11 stocks",
+      "summary": "Foreign institutional investors (FIIs) have unexpectedly become net buyers of Indian equities in November, marking a noteworthy shift in market dynamics. Jefferies has identified 11 stocks, including Reliance Industries, HDFC Bank, and Axis Bank, as potential beneficiaries of this influx.",
+      "why_it_matters": "A resurgence of foreign investment could provide significant upward momentum for the Indian market, especially for large-cap stocks that previously faced outflows.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-are-back-jefferies-lists-11-stocks-that-can-be-the-biggest-beneficiaries/slideshow/135758277.cms"
+    },
+    {
+      "headline": "Anthropic IPO eyes $64B valuation with new playbook",
+      "summary": "Anthropic is preparing for an IPO with an estimated valuation of $64.4 billion, aiming for inclusion in major indexes post-debut. This follows a 'new playbook' for mega-share debuts, similar to SpaceX's market entry, anticipating significant initial share price surges.",
+      "why_it_matters": "This IPO could be a major liquidity event and a benchmark for AI company valuations, drawing substantial investor attention and setting new market precedents.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-spacex-to-anthropic-markets-have-a-new-playbook-for-mega-share-debuts/articleshow/135756798.cms"
+    },
+    {
+      "headline": "Alphabet raises $5B in bonds for AI infrastructure",
+      "summary": "Alphabet's debut bond sales in Hong Kong and Singapore drew approximately $5 billion in early orders, demonstrating strong investor confidence. This financing provides capital flexibility for accelerating investments in AI infrastructure, despite recent tech share volatility.",
+      "why_it_matters": "This successful bond issuance enables Alphabet to fuel its ambitious AI growth strategy, signaling continued big tech commitment to building out critical AI infrastructure.",
+      "source": "ET Tech",
+      "link": "https://economictimes.indiatimes.com/tech/technology/alphabets-debut-hong-kong-singapore-bond-sales-draw-about-5-billion-in-early-orders/articleshow/135759335.cms"
+    },
+    {
+      "headline": "Foxconn beats Q3 profit forecasts by 34%",
+      "summary": "Taiwan's Foxconn, a key supplier for Nvidia servers and Apple iPhones, reported a 34% rise in Q3 net profit, reaching T$77.5 billion ($2.35 billion). This performance significantly surpassed analyst estimates of T$69.6 billion, demonstrating strong operational execution.",
+      "why_it_matters": "Strong performance from a critical tech supply chain player indicates robust demand for components, particularly in the booming AI server market, and overall industry health.",
+      "source": "ET Tech",
+      "link": "https://economictimes.indiatimes.com/tech/technology/taiwans-foxconn-reports-34-rise-in-q3-profit-beats-forecasts/articleshow/135759240.cms"
+    }
+  ],
+  "startup_funding": [
+    {
+      "company": "Fractile",
+      "amount": "$720M",
+      "investor": "Not specified",
+      "one_liner": "Developing purpose-built AI chips to compete in the growing AI hardware market.",
+      "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
+    },
+    {
+      "company": "Nominal",
+      "amount": "Not specified",
+      "investor": "Not specified",
+      "one_liner": "Offers an AI platform for hardware engineering and claims Anduril as a major customer, recently tripled its valuation to $3B.",
+      "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/"
+    },
+    {
+      "company": "Harbinger",
+      "amount": "$240M",
+      "investor": "Not specified",
+      "one_liner": "Working on electric trucks, emergency vehicles, and a driverless platform, recently expanding into defense.",
+      "link": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/"
+    }
+  ],
+  "stocks_to_watch": [
+    {
+      "ticker": "NVDA",
+      "reason": "CEO Jensen Huang faces potential ouster amid multiple scandals, causing stock drops and congressional scrutiny, threatening leadership stability."
+    },
+    {
+      "ticker": "ANTH",
+      "reason": "Preparing for a highly anticipated IPO targeting a $64.4 billion valuation, with TSMC also investing $1 billion, signaling a major market debut."
+    },
+    {
+      "ticker": "OpenAI (implied)",
+      "reason": "Reported quarterly revenue crossing $10 billion, demonstrating significant growth and market capture in the rapidly expanding AI sector."
+    },
+    {
+      "ticker": "TSM",
+      "reason": "The chipmaking giant is making strategic $1 billion investments into leading AI firms Anthropic and OpenAI, solidifying its role in the AI ecosystem."
+    },
+    {
+      "ticker": "BE",
+      "reason": "Bloom Energy shares jumped 13% after strong CoreWeave results eased concerns about AI infrastructure spending, indicating market sensitivity to AI infra news."
+    }
+  ],
+  "hiring_trends": {
+    "signal": "",
+    "source": ""
+  },
+  "contrarian_insight": {
+    "take": "Despite the dramatic headlines surrounding Jensen Huang's personal conduct and potential ouster, Nvidia's fundamental market position as the dominant AI chip supplier is unlikely to be severely impacted long-term. The immense and growing demand for AI compute, coupled with significant capital flowing into the AI ecosystem, suggests the company's core business will remain robust, regardless of immediate leadership changes.",
+    "reasoning": "Nvidia has built a deep technological moat and strong ecosystem over decades, making the industry structurally reliant on its hardware for AI development. While a leadership crisis is destabilizing, the underlying demand for AI compute and the substantial investments across the sector point to an unyielding growth trajectory for the foundational technology providers."
+  }
+}
