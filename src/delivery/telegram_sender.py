@@ -116,7 +116,7 @@ async def send_digest(chat_id, digest, market_data, chart_path, date_str):
                 parse_mode="HTML",
             )
 
-    print(f"[Telegram] Sent digest to {chat_id}")
+    print("[Telegram] Digest delivery completed.")
 
 def send_digest_sync(chat_id, digest, market_data, chart_path, date_str):
     """Synchronous wrapper — use this from main.py"""
