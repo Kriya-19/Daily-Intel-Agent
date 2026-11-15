@@ -1,0 +1,166 @@
+{
+  "ai_news": [
+    {
+      "headline": "Nvidia CEO's Exit Sparks Global AI Chip Scrutiny",
+      "summary": "Jensen Huang stepped down as Nvidia CEO amidst a security chief's quiet departure and revelations of his relationships, including one with an executive at a company suspected of funneling chips to China. This exit has drawn significant government attention and concerns over chip supply.",
+      "why_it_matters": "Huang's departure and related investigations could drastically alter the AI chip supply chain and US-China tech relations, impacting global AI development.",
+      "source": "TechCrunch AI",
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+    },
+    {
+      "headline": "Huang's Exit Threatens AI Startup Funding & Valuations",
+      "summary": "VCs and founders are bracing for smaller checks and lower valuations following Jensen Huang's departure from Nvidia, as he was instrumental in pouring tens of billions into AI startups. Major investors are urging Nvidia's board to keep open the option for Huang's return.",
+      "why_it_matters": "The leadership change at Nvidia could significantly reduce the flow of capital into AI startups, shifting the competitive landscape for nascent AI companies.",
+      "source": "TechCrunch AI",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/"
+    },
+    {
+      "headline": "China's Advanced AI Models Use Banned Nvidia Chips",
+      "summary": "New research reveals that the most advanced AI models developed in China were trained using Nvidia chips that are subject to export bans. This highlights ongoing challenges in controlling chip technology flow despite US restrictions.",
+      "why_it_matters": "This underscores the difficulty of enforcing tech export controls and could intensify US-China tensions over AI hardware, impacting global supply chains.",
+      "source": "TechCrunch AI",
+      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+    },
+    {
+      "headline": "ChatGPT Introduces New AI Agent Shopping Wallet",
+      "summary": "OpenAI's ChatGPT is rolling out a new 'Wallet' feature that allows its AI agents to shop and check out items on behalf of users. This functionality is currently limited to U.S. Pro subscribers, marking a new phase for AI agent capabilities.",
+      "why_it_matters": "This marks a significant step towards autonomous AI agents handling real-world transactions, potentially reshaping e-commerce and personal finance interfaces.",
+      "source": "TechCrunch AI",
+      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+    },
+    {
+      "headline": "The AI Graveyard: Major Projects Fail to Deliver",
+      "summary": "A running list of AI projects, including Apple's repeatedly delayed Siri AI and OpenAI's messy 'super app' launch, highlights numerous ventures that have shut down or failed to meet expectations. This suggests a challenging landscape for AI productization despite pervasive hype.",
+      "why_it_matters": "This provides a reality check on the AI boom, reminding professionals that not all ambitious AI projects succeed, and market execution remains critical.",
+      "source": "TechCrunch AI",
+      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
+    }
+  ],
+  "tech_news": [
+    {
+      "headline": "SpaceX Achieves First Starship 'Chopstick' Catch",
+      "summary": "SpaceX successfully executed the first-ever 'chopstick' catch of its Starship vehicle using the 'Mechazilla' launch and catch tower. This follows an earlier aborted attempt for Flight 15's booster, marking a significant milestone in rapid reusability.",
+      "why_it_matters": "This achievement demonstrates a critical capability for SpaceX's long-term reusability goals, potentially reducing space launch costs and accelerating lunar/Mars missions.",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch"
+    },
+    {
+      "headline": "FAA Ground Stop Blamed on Obsolete Equipment",
+      "summary": "A nationwide ground stop by the FAA was attributed to routine maintenance involving the replacement of outdated copper wire with a fiber optic line at a remote facility. Transportation Secretary Sean Duffy clarified there was 'zero evidence of anything AI-related'.",
+      "why_it_matters": "The incident highlights critical infrastructure vulnerabilities due to aging systems, emphasizing the need for robust modernization to prevent major operational disruptions.",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire"
+    },
+    {
+      "headline": "Tesla Offers Cybercab for 'Personal Use' with Restrictions",
+      "summary": "Tesla is inviting 'select customers' to pre-order a Cybercab for 'personal use,' emphasizing its autonomous future. However, the offer comes with significant fine print, including geo-restrictions to 'supported service areas' and a $299 monthly subscription fee.",
+      "why_it_matters": "This move tests consumer demand for subscription-based autonomous vehicles while revealing the practical limitations and costs associated with early-stage FSD deployment.",
+      "source": "The Verge",
+      "link": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print"
+    },
+    {
+      "headline": "Microsoft Outage Shows Single Provider Risk",
+      "summary": "A multi-day outage impacting Microsoft 365 services, including Outlook, Teams, and Copilot, highlighted the inherent risks of relying on a single technology provider for essential business operations. Microsoft reported 'encouraging recovery progress' but warned of lingering issues.",
+      "why_it_matters": "This event underscores the importance of diversifying tech infrastructure and implementing robust contingency plans to mitigate the impact of widespread service disruptions.",
+      "source": "ET Tech",
+      "link": "https://economictimes.indiatimes.com/tech/technology/microsoft-outage-shows-the-risks-of-relying-on-a-single-technology-provider-for-essential-services/articleshow/135821607.cms"
+    },
+    {
+      "headline": "Lovable Apps Expose Private User Data",
+      "summary": "A security flaw in 'Lovable apps' has reportedly exposed sensitive user information, including passport details and over 200,000 private messages. This highlights persistent vulnerabilities in popular applications handling personal data.",
+      "why_it_matters": "The breach serves as a stark reminder of the critical need for rigorous cybersecurity practices and user data protection, affecting both consumer trust and regulatory compliance.",
+      "source": "Hacker News",
+      "link": "https://www.crissyfield.de/research/lovable-en/"
+    }
+  ],
+  "finance_news": [
+    {
+      "headline": "Yes Bank Seeks Review on AT-1 Bond Write-off",
+      "summary": "Yes Bank has petitioned the Supreme Court to review an order upholding a Bombay High Court ruling that quashed its decision to write off Rs 8,415 crore worth of AT-1 bonds. The High Court questioned the bank administrator's authority for the write-off.",
+      "why_it_matters": "The outcome of this review could have significant implications for the Indian banking sector's handling of AT-1 bonds and the authority of bank administrators.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/yes-bank-moves-sc-seeking-review-of-order-on-writing-off-of-rs-8415-cr-at-1-bonds/articleshow/135830873.cms"
+    },
+    {
+      "headline": "Mahanadi Coalfields Files for \u20b99,500 Cr IPO",
+      "summary": "Mahanadi Coalfields Ltd has filed its Red Herring Prospectus for an initial public offering, planning to offer a 10% stake from Coal India amounting to approximately \u20b99,500 crore. The IPO's final execution depends on regulatory approval and market conditions.",
+      "why_it_matters": "This large-scale IPO could provide a significant liquidity event for Coal India and test market appetite for public sector enterprises, influencing future government divestments.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/mahanadi-coalfields-files-rhp-for-proposed-ipo-worth-nearly-rs-9500-crore/articleshow/135829640.cms"
+    },
+    {
+      "headline": "Binance Aims for Full Withdrawal Reopening Post-Hack",
+      "summary": "Binance is targeting a full restoration of withdrawals across all networks and assets by the end of next week, following the recovery of 95% of the $6.3 billion lost in an October hack attributed to North Korean actors. The company pledges full reimbursement for affected clients.",
+      "why_it_matters": "This recovery and reopening are crucial for restoring confidence in Binance and the broader crypto market, particularly after a significant security breach.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/binance-targets-full-reopening-of-withdrawals-by-next-week/articleshow/135828102.cms"
+    },
+    {
+      "headline": "SoftBank Trims Indian Exposure, Sells Meesho Shares",
+      "summary": "SoftBank has further reduced its exposure to the Indian market by offloading 7.64 crore shares in Bengaluru-based Meesho, an e-commerce platform, for \u20b91,885.17 crore (approximately $226 million). This transaction follows a pattern of SoftBank divesting holdings in Indian startups.",
+      "why_it_matters": "This divestment indicates SoftBank's continued strategy of cashing out of its Indian portfolio companies, potentially signaling shifting investment priorities in the region.",
+      "source": "ET Tech",
+      "link": "https://economictimes.indiatimes.com/tech/technology/softbank-further-trims-india-exposure-offloads-meesho-shares-worth-rs-1885-crore/articleshow/135821247.cms"
+    },
+    {
+      "headline": "Nifty Bulls Face Key Resistance Levels",
+      "summary": "The Nifty's technical structure remains positive after a sharp rebound, but the index is currently approaching an overhead resistance area. Analysts are watching if Nifty bulls can overcome these key levels in the coming week amidst market volatility.",
+      "why_it_matters": "This assessment provides insight into immediate market sentiment and potential movements, which is crucial for short-term trading and investment strategies.",
+      "source": "ET Markets",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-can-nifty-bulls-overcome-key-resistance-levels/articleshow/135829497.cms"
+    }
+  ],
+  "startup_funding": [
+    {
+      "company": "LangChain",
+      "amount": "N/A (Valued at $3B)",
+      "investor": "N/A",
+      "one_liner": "AI agent startup offering a model and platform agnostic agent management tool, LangSmith.",
+      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/"
+    },
+    {
+      "company": "Fractile",
+      "amount": "$720M",
+      "investor": "N/A",
+      "one_liner": "British startup competing in the race for purpose-built AI chips.",
+      "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
+    },
+    {
+      "company": "Odessia",
+      "amount": "Acquired",
+      "investor": "OpenAI",
+      "one_liner": "A travel startup founded by Sonder's founder, now acquired by OpenAI.",
+      "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+    }
+  ],
+  "stocks_to_watch": [
+    {
+      "ticker": "NVDA",
+      "reason": "The CEO's controversial exit, implications for US-China chip trade, and impact on AI startup funding will cause significant market volatility and investor scrutiny."
+    },
+    {
+      "ticker": "TSLA",
+      "reason": "The launch of Cybercab pre-orders with geo-restrictions and a high monthly fee will test market acceptance and the viability of its autonomous ride-sharing vision."
+    },
+    {
+      "ticker": "MSFT",
+      "reason": "A major outage across Microsoft 365 and Copilot services highlights reliability concerns for enterprise clients, potentially impacting future cloud service adoption and stock perception."
+    },
+    {
+      "ticker": "COALINDIA",
+      "reason": "Its subsidiary, Mahanadi Coalfields, filed for a large IPO, indicating potential for significant capital raise and a spotlight on the parent company's assets."
+    },
+    {
+      "ticker": "YESBANK",
+      "reason": "The bank's petition to the Supreme Court regarding a major AT-1 bond write-off introduces regulatory and financial uncertainty that could impact its valuation."
+    }
+  ],
+  "hiring_trends": {
+    "signal": "Today's articles do not contain explicit data or reports on current tech or AI hiring trends.",
+    "source": "N/A"
+  },
+  "contrarian_insight": {
+    "take": "While Jensen Huang's departure from Nvidia creates immediate uncertainty and challenges, it could paradoxically force the AI industry to diversify its foundational hardware and investment sources. His exit might accelerate the development of alternative chip architectures and foster a more distributed, resilient AI ecosystem.",
+    "reasoning": "Nvidia's near-monopoly on AI chips and Huang's personal influence created a single point of failure and potential bottleneck. Disrupting this concentration, though painful in the short term, could ultimately de-risk the industry from over-reliance on one entity and spur broader innovation."
+  }
+}
